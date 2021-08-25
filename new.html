@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>E-passport 1.0</title>
+    <script type="text/javascript" src="/eel.js"></script>
+    <script src="main.js"></script>
+    <link rel="stylesheet" href="main.css">
+    <style>
+        #container2 ,#container3, #container4,#container5,#container6{
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div id="sidebar">
+        <a id="adda" type="submit" onclick="showAdd()"><img src="icons/add.png"><span>Add new passport</span></a>
+        <a id="edita" type='submit' onclick="showEdit()"> <img src="icons/modify.png"> <span>Edit passport</span></a>
+        <a id="deletea" type='submit' onclick="showDelete()"><img src="icons/delete.png"> <span>Remove passport</span></a>
+        <a id="vaca" type='submit' onclick="showVac()"><img src="icons/addvac.png"> <span>Add to health record</span></a>
+        <a id="abouta" type='submit' onclick="showAbout()" ><img src="icons/about.png"> <span>About</span></a>
+    </div>
+    <div class="container">
+        <div class="msg" id="msg"><p id="msgp"></p></div>
+        <div id="container1">
+            <form>
+                <div class="col">
+                <div class="col1">
+                    <h2>Civil State: </h2>
+                <label>Personal Number:</label>
+                    <input type="text" id="id" required><br>
+                <label>Firstname:</label>
+                    <input type="text" id="firstname"  required><br>
+                <label>Lastname:</label>
+                    <input type="text" id="lastname"  required><br>
+                <label>Date of Birth: </label>
+                    <input type="date" id="birthdate"  required><br>
+                <label>Place of Birth: </label>
+                    <input type="text" id="birthplace"  required><br>
+                <label>Gender:</label>
+                    <input type="radio" id="male" name="gender"  value="homme" required>
+                        <label class="radio" for="male">Male</label>
+                    <input type="radio" id="female" name="gender" value="femme" required>
+                        <label class="radio"  for="female">Female</label><br>
+                <label>Blood Group: </label>
+                    <select id="groupage"  required><br>
+                        <option value="A+">A+</option>
+                        <option value="A-">A-</option>
+                        <option value="O+">B+</option>
+                        <option value="O-">B-</option>
+                        <option value="O-">AB+</option>
+                        <option value="O-">AB-</option>
+                        <option value="O-">O+</option>
+                        <option value="O-">O-</option>
+                    </select><br>
+                <label>Authority: </label>
+                    <select id="autorite" required >
+                        <option value="annaba">Annaba</option>
+                        <option value="alger">Alger</option>
+                        <option value="constantine">Constantine</option>
+                        <option value="oran">Oran</option>
+                    </select>
+                </div>
+                <div class="col2" id="ff">
+                    <div >
+                <img id="display-photo" class="display-photo" />
+                <button type="button" class="photobtn" onclick="showPhoto()">Upload personal picture</button>
+            </div><div>
+                <img id="display-signature" class="display-photo" />
+                <button type="button" class="photobtn" onclick="showSignature()">Upload signature picture</button>
+              </div>
+            </div>
+        </div>
+                <button type="button" class="submitbtn" style="width: 200;height: 200;" onclick="add()">Submit</button>
+            </form>
+</div>
+<div id="container2">
+    <h2>Civil State: </h2>
+    <div class="search">
+    <form>
+    <label>Personal Number:</label>
+        <input type="text" id="id2" >
+        <button type="button" class="submitbtn" onclick="rechercher()" style="margin: 10px;">Search</button>
+    </form>
+    </div>
+    <div class="searchResult">
+    <form>
+        <div class="col">
+        <div class="col1">
+            
+        <label>Firstname:</label>
+            <input type="text" id="firstname2"  disabled><br>
+        <label>Lastname:</label>
+            <input type="text" id="lastname2"  disabled><br>
+        <label>Date of Birth: </label>
+            <input type="text" id="birthdate2"  disabled><br>
+        <label>Place of Birth: </label>
+            <input type="text" id="birthplace2"  disabled><br>
+        <label>Gender:</label>
+            <input type="radio" id="male2"  name="gender2"  value="homme" >
+                <label class="radio" for="male">Male</label>
+            <input type="radio" id="female2"  name="gender2" value="femme" >
+                <label class="radio" for="female">Female</label><br>
+        <label>Blood Group: </label>
+            <input id="groupage2"  disabled><br>
+        <label>Authority: </label>
+            <select id="autorite2" required >
+                <option value="annaba">Annaba</option>
+                <option value="alger">Alger</option>
+                <option value="constantine">Constantine</option>
+                <option value="oran">Oran</option>
+            </select>
+        </div>
+        <div class="col2">
+            <div >
+        <img id="display-photo2" class="display-photo" />
+        <button type="button" class="photobtn" onclick="showPhotoUp()">Upload personal picture</button>
+    </div><div>
+        <img id="display-signature2" class="display-photo" />
+        <button type="button" class="photobtn" onclick="showSignatureUp()">Upload signature picture</button>
+      </div>
+    </div>
+</div>
+<div style="display: grid;">
+        <button type="button" id="renew" class="submitbtn" onclick="renewfunc()" style="margin-left:55%;grid-area: 3/1; display: none;background: rgb(66, 137, 230);" >Renew</button>
+        <button type="button" class="submitbtn" style="grid-area: 3/1;"  onclick="edit()">Submit</button>
+   </div> </form>
+</div>
+</div>
+<div id="container3">
+    <h2>Civil State: </h2>
+    <div class="search">
+    <form>
+    <label>Personal Number:</label>
+        <input type="text" id="id3" >
+        <button type="button" class="submitbtn" onclick="rechercherSup()" style="margin: 10px;">Search</button>
+    </form>
+    </div>
+    <div class="searchResult">
+    <form>
+        <div class="col">
+        <div class="col1">
+            
+        <label>Firstname:</label>
+            <input type="text" id="firstname3"  disabled><br>
+        <label>Lastname:</label>
+            <input type="text" id="lastname3"  disabled><br>
+        <label>Date of Birth: </label>
+            <input type="text" id="birthdate3"  disabled><br>
+        <label>Place of Birth: </label>
+            <input type="text" id="birthplace3"  disabled><br>
+        <label>Gender:</label>
+            <input type="radio" id="male3" name="gender3"  value="homme" >
+                <label class="radio" for="male">Male</label>
+            <input type="radio" id="female3"  name="gender3" value="femme" >
+                <label class="radio" for="female">Female</label><br>
+        <label>Blood Group: </label>
+            <input id="groupage3"  disabled><br>
+        <label>Authority: </label>
+            <input id="autorite3" disabled >
+                
+            </select>
+        </div>
+        <div class="col2">
+            <div >
+        <img id="display-photo3" class="display-photo" />
+    </div><div>
+        <img id="display-signature3" class="display-photo" />
+      </div>
+    </div>
+</div>
+        <button  type="button" class="submitbtn" style="background: rgb(184, 43, 43);" onclick="remove()">Remove</button>
+    </form>
+</div>
+</div>
+<div id="container4">
+   
+    <div class="search">
+        <form>
+            <label>Personal Number:</label>
+            <input type="text" id="id4" >
+            <button type="button" class="submitbtn" onclick="recherchervac()" style="margin: 10px;">Search</button>
+        </form>
+    </div>
+        <div class="searchResult">
+                <div class="col">
+                    <h2>Civil State: </h2>
+                    <div class="col2">
+                        <img id="display-photo4" class="display-photo" />
+                    </div>
+
+                    <div class="col1">
+            <label>Firstname:</label>
+                <input type="text" id="firstname4"  disabled>
+            <label>Lastname:</label>
+                <input type="text" id="lastname4"  disabled><br>
+            <label>Date of Birth: </label>
+                <input type="date" id="birthdate4"  disabled>
+            <label>Place of Birth: </label>
+                <input type="text" id="birthplace4"  disabled><br>
+            <label>Gender:</label>
+                <input type="text" id="gender4"  disabled >
+            <label>Blood Group: </label>
+                <input id="groupage4"  disabled><br>
+            <label>Authority: </label>
+                <input id="autorite4" disabled>
+            </div>
+  
+    </div>
+    </div>
+    <form>
+    <div class="col vac" style="display: inline-block;">
+        <h2>Add vaccination:</h2>
+        <label>Vaccination Number:</label>
+                <input type="text" id="vacNum"  >
+            <label>Vaccination Name:</label>
+                <input type="text" id="vacName"  ><br>
+            <label>Lot: </label>
+                <input type="text" id="lot"  >
+            <label>Type: </label>
+                <input type="text" id="type"  ><br>
+            <label>Technique:</label>
+                <input type="text" id="technique"   >
+            <label>Production Date: </label>
+                <input type="text" id="datePro"  ><br>
+            <label>Expiration Date: </label>
+                <input type="text" id="dateExp" >
+            <label>Vaccination Date: </label>
+                <input type="date" id="dateVac" ><br>
+            <label>Provider: </label>
+                <input type="text" id="provider" >
+            <label>Description: </label>
+                <input type="text" id="description" >
+                <button type="button" class="submitbtn"  onclick="addvac()">Add vaccination</button>
+    </div>
+</form>
+    </div>
+<div id="container6">
+    <h4>E-passeport v1.0</h4>
+    <p>Desktop applicatipon for management of a NoSQL database managing biometric passports integrating anti-codiv19 vaccination</p> 
+    <h4>Version</h4>
+    <p>1.0</p>
+    <h4>Proposed by</h4>
+    <p>&#9400; Dr.Hamdane Mohammed Elkamel </p>
+    <h4>realised by </h4>
+    <p>&#9400; Ms. Laouar Rofaida </p><p>&#9400; Ms. Bounaama Nadjia </p>
+    <h4>Released on </h4>
+    <p>June 22<sup>nd</sup> ,2021</p>
+</div>
+</div>
+</body>
+</html>

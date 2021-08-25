@@ -1,0 +1,88 @@
+#sidebar {
+    position: fixed;
+    z-index: 10;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 75px;
+    background: #04AA6D;
+    border-right: 1px solid #546158;
+    transition: all .3s ease-in-out;
+    overflow: hidden;
+    padding-top: 5%;
+  }
+  #sidebar:hover {
+    width: 280px;
+  }
+
+  #sidebar a {
+    text-decoration: none;
+    display: block;
+    padding: 20px 15px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 1000;
+    width: 100%;
+    white-space: nowrap;
+    transition: all .2s ease-in-out;
+  }
+  #sidebar a img{width: 45px;} 
+  #sidebar a span {
+    opacity: 0;
+    transition: all .2s ease-in-out;
+    padding: 0px 0px 10px 15px;
+  }
+  #sidebar:hover a span {
+    opacity: 1
+  }
+  #sidebar a:hover span {
+    opacity: 1;
+  }
+  #sidebar a:hover {
+    background-color: #2e8565;
+   
+    width: 100%;
+  }
+  
+  #sidebar a:hover, #sidebar a.active {
+    text-decoration: none;
+    background: #2e8565;
+  }
+  
+  #sidebar a.active {
+    background: #2e8565;
+  }
+
+.container{margin-left: 3%;}
+.msg{width: 80%;height: 100px;display: none;margin-left: 12%;margin-top: -5px;color:#fff;}
+.msg p{padding: 40px;font-weight: bold;font-size: 25px;}
+#container1, #container2, #container3, #container4 ,#container6{border: 1.5px #04AA6D solid;display: inline-block; width: 80%;margin: 5% 10%;padding: 40px;border-radius: 10px;box-shadow: 4px 4px #04aa6d4b;}
+.col{display: flex;}
+.col1{width: 45%;}
+.col2{width: 50%;display: inline-flex;}
+.col2 div{margin: 20px; text-align: center;width: 50%;}
+label{font-weight: bold;font-size: 24px;display: inline-block;width: 190px;}
+input, select{border: 1.5px #868a88 solid; margin: 10px;width: 250px;height: 40px; font-size: 20px;}
+input[type='radio']{
+    margin: 5px 9px; width: 30px; 
+}
+.radio{
+    width: auto;margin: 0px 10px 5px;
+}
+h2{position: absolute; padding: 0px 20px 0px 10px; font-size: 30px;margin-top: -60px;background: #fff;}
+
+.display-photo, .display-signature{
+    width: 300px; height: 300px;display: block;margin: 10px;
+}
+.photobtn{width: 200px; height: 40px; background: #fff;border: 1px solid #04AA6D; border-radius: 3px;}
+.submitbtn{background: #04AA6D;width: 200px;height: 50px;margin-left: 75%;color: #fff; border: none;font-size: 20px;}
+.search{border-bottom: 0.5px solid rgba(128, 128, 128, 0.589);width: 100%;margin-bottom: 20px;}
+
+#container4 .col1 label{width: 150px;} #container4 .col1 input{width: 220px;}
+#container4 .col{border: 1.5px #04AA6D solid;margin-top: 30px; display: inline-flex; width: 90%;padding: 40px;border-radius: 10px;box-shadow: 4px 4px #04aa6d4b;}
+#container4 .col2{width: 30%;}
+#container4 .col1{width: 70%;padding-top: 20px;}
+.vac label{width: 240px;}
+#adda {background: #2e8565;}
+
+#container6{font-size: 24px;}
