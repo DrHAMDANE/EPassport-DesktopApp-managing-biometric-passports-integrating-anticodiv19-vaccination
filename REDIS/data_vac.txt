@@ -1,0 +1,700 @@
+hmset	info_vac:0001:1000	nom_vac	SpoutnikV	lot	4235/20	type	 Covid-19	technique	IM	date_pro	3/2021	date_exp	3/2022	provider 	Gamaleya Research Institute	description	TwoDose
+hmset	info_vac:0002:1001	nom_vac	SpoutnikV	lot	0235/21	type	 Covid-19	technique	IM	date_pro	4/2021	date_exp	4/2022	provider 	Gamaleya Research Institute	description	TwoDose
+hmset	info_vac:0003:1002	nom_vac	MMR	lot	1258/17	type	"   measles, mumps, rubella"	technique	SC	date_pro	1/2020	date_exp	1/2021	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0004:1003	nom_vac	SpoutnikV	lot	1459/20	type	 Covid-19	technique	IM	date_pro	6/2021	date_exp	6/2022	provider 	Gamaleya Research Institute	description	TwoDose
+hmset	info_vac:0005:1004	nom_vac	Pfizer-BioNTech	lot	1419/20	type	 Covid-19	technique	IM	date_pro	1/2021	date_exp	1/2022	provider 	BioNTech	description	TwoDose
+hmset	info_vac:0006:1005	nom_vac	Pfizer-BioNTech	lot	1369/20	type	 Covid-19	technique	IM	date_pro	9/2020	date_exp	9/2021	provider 	BioNTech	description	TwoDose
+hmset	info_vac:0007:1006	nom_vac	Pfizer-BioNTech	lot	6359/20	type	 Covid-19	technique	IM	date_pro	2/2020	date_exp	2/2021	provider 	BioNTech	description	TwoDose
+hmset	info_vac:0008:1007	nom_vac	BCG	lot	1899/18	type	 Tuberculosis	technique	IM	date_pro	8/2020	date_exp	8/2021	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0009:1008	nom_vac	BCG	lot	5369/17	type	 Tuberculosis	technique	ID	date_pro	4/2021	date_exp	4/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0010:1009	nom_vac	Pfizer-BioNTech	lot	4213/21	type	 Covid-19	technique	IM	date_pro	7/2020	date_exp	7/2021	provider 	BioNTech	description	TwoDose
+hmset	info_vac:0011:1010	nom_vac	Pfizer-BioNTech	lot	3459/21	type	 Covid-19	technique	IM	date_pro	3/2021	date_exp	3/2022	provider 	BioNTech	description	TwoDose
+hmset	info_vac:0012:1011	nom_vac	HBV	lot	2059/20	type	  hepatitisB	technique	IM	date_pro	8/2018	date_exp	8/2019	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0013:1012	nom_vac	HBV	lot	0001/21	type	  hepatitisB	technique	IM	date_pro	9/2017	date_exp	9/2018	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0014:1013	nom_vac	Pfizer-BioNTech	lot	0029/21	type	 Covid-19	technique	IM	date_pro	2/2020	date_exp	2/2021	provider 	BioNTech	description	TwoDose
+hmset	info_vac:0015:1014	nom_vac	Johnson&Johnson	lot	0232/20	type	 Covid-19	technique	IM	date_pro	3/2020	date_exp	3/2021	provider 	Johnson&Johnson	description	TwoDose
+hmset	info_vac:0016:1015	nom_vac	Pfizer-BioNTech	lot	4032/20	type	 Covid-19	technique	IM	date_pro	7/2020	date_exp	7/2021	provider 	BioNTech	description	TwoDose
+hmset	info_vac:0017:1016	nom_vac	AstraZeneca	lot	0232/20	type	 Covid-19	technique	IM	date_pro	9/2020	date_exp	9/2021	provider 	astrazeneca oxford	description	TwoDose
+hmset	info_vac:0018:1017	nom_vac	AstraZeneca	lot	1789/20	type	 Covid-19	technique	IM	date_pro	1/2021	date_exp	1/2022	provider 	astrazeneca oxford	description	TwoDose
+hmset	info_vac:0019:1018	nom_vac	AstraZeneca	lot	0638/20	type	 Covid-19	technique	IM	date_pro	2/2021	date_exp	2/2022	provider 	astrazeneca oxford	description	TwoDose
+hmset	info_vac:0020:1019	nom_vac	Moderna	lot	0945/21	type	 Covid-19	technique	IM	date_pro	2/2021	date_exp	2/2023	provider 	Moderna	description	TwoDose
+hmset	info_vac:0021:1020	nom_vac	Moderna	lot	0282/20	type	 Covid-19	technique	IM	date_pro	1/2020	date_exp	1/2021	provider 	Moderna	description	TwoDose
+hmset	info_vac:0022:1021	nom_vac	Moderna	lot	1496/19	type	 Covid-19	technique	IM	date_pro	1/2021	date_exp	1/2021	provider 	Moderna	description	TwoDose
+hmset	info_vac:0023:1022	nom_vac	Novavax	lot	1798/20	type	 Covid-19	technique	IM	date_pro	2/2021	date_exp	2/2022	provider 	Novavax	description	TwoDose
+hmset	info_vac:0024:1023	nom_vac	Moderna	lot	1258/20	type	 Covid-19	technique	IM	date_pro	3/2021	date_exp	3/2026	provider 	Moderna	description	TwoDose
+hmset	info_vac:0025:1024	nom_vac	Moderna	lot	3650/20	type	 Covid-19	technique	IM	date_pro	4/2021	date_exp	4/2022	provider 	Moderna	description	TwoDose
+hmset	info_vac:0026:1025	nom_vac	Novavax	lot	2121/21	type	 Covid-19	technique	IM	date_pro	5/2021	date_exp	5/2025	provider 	Novavax	description	TwoDose
+hmset	info_vac:0027:1026	nom_vac	SpoutnikV	lot	1325/21	type	 Covid-19	technique	IM	date_pro	6/2021	date_exp	6/2023	provider 	Gamaleya Research Institute	description	TwoDose
+hmset	info_vac:0028:2000	nom_vac	SpoutnikV	lot	0123/21	type	 Covid-19	technique	IM	date_pro	7/2020	date_exp	7/2021	provider 	Gamaleya Research Institute	description	TwoDose
+hmset	info_vac:0029:2001	nom_vac	SpoutnikV	lot	0178/20	type	 Covid-19	technique	IM	date_pro	2/2021	date_exp	2/2022	provider 	Gamaleya Research Institute	description	TwoDose
+hmset	info_vac:0030:2002	nom_vac	SpoutnikV	lot	0123/20	type	 Covid-19	technique	IM	date_pro	5/2021	date_exp	5/2022	provider 	Gamaleya Research Institute	description	TwoDose
+hmset	info_vac:0031:2003	nom_vac	SpoutnikV	lot	0783/20	type	 Covid-19	technique	IM	date_pro	2/2021	date_exp	2/2023	provider 	Gamaleya Research Institute	description	TwoDose
+hmset	info_vac:0032:2004	nom_vac	SpoutnikV	lot	0127/20	type	 Covid-19	technique	IM	date_pro	6/2020	date_exp	6/2021	provider 	Gamaleya Research Institute	description	TwoDose
+hmset	info_vac:0033:2005	nom_vac	AstraZeneca	lot	0458/21	type	 Covid-19	technique	IM	date_pro	12/2020	date_exp	12/2022	provider 	astrazeneca oxford	description	TwoDose
+hmset	info_vac:0034:2006	nom_vac	AstraZeneca	lot	1235/20	type	 Covid-19	technique	IM	date_pro	2/2021	date_exp	2/2023	provider 	astrazeneca oxford	description	TwoDose
+hmset	info_vac:0035:2007	nom_vac	AstraZeneca	lot	0147/20	type	 Covid-19	technique	IM	date_pro	3/2021	date_exp	3/2022	provider 	astrazeneca oxford	description	TwoDose
+hmset	info_vac:0036:2008	nom_vac	AstraZeneca	lot	0258/20	type	 Covid-19	technique	IM	date_pro	12/2020	date_exp	12/2022	provider 	astrazeneca oxford	description	TwoDose
+hmset	info_vac:0037:2009	nom_vac	MMR	lot	1587/18	type	"   measles, mumps, rubella"	technique	SC	date_pro	3/2019	date_exp	3/2020	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0038:2010	nom_vac	MMR	lot	1289/19	type	"   measles, mumps, rubella"	technique	SC	date_pro	6/2015	date_exp	6/2016	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0039:2011	nom_vac	MMR	lot	1578/17	type	"   measles, mumps, rubella"	technique	SC	date_pro	7/2017	date_exp	7/2018	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0040:2012	nom_vac	MMR	lot	4578/20	type	"   measles, mumps, rubella"	technique	SC	date_pro	12/2020	date_exp	12/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0041:2013	nom_vac	HBV	lot	0478/16	type	  hepatitisB	technique	IM	date_pro	9/2018	date_exp	9/2019	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0042:2014	nom_vac	HBV	lot	0124/20	type	  hepatitisB	technique	IM	date_pro	8/2018	date_exp	8/2019	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0043:2015	nom_vac	BCG	lot	1785/20	type	 Tuberculosis	technique	IM	date_pro	7/2019	date_exp	7/2020	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0044:2016	nom_vac	HBV	lot	4792/21	type	  hepatitisB	technique	IM	date_pro	5/2020	date_exp	5/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0045:2017	nom_vac	HBV	lot	7894/15	type	  hepatitisB	technique	IM	date_pro	1/2017	date_exp	1/2018	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0046:2018	nom_vac	HBV	lot	1784/17	type	  hepatitisB	technique	IM	date_pro	5/2018	date_exp	5/2019	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0047:2019	nom_vac	MMR	lot	0147/21	type	"   measles, mumps, rubella"	technique	SC	date_pro	6/2018	date_exp	6/2019	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0048:2020	nom_vac	MMR	lot	0179/18	type	"   measles, mumps, rubella"	technique	SC	date_pro	6/2019	date_exp	6/2021	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0049:2021	nom_vac	MMR	lot	2479/19	type	"   measles, mumps, rubella"	technique	SC	date_pro	10/2018	date_exp	10/2020	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0050:2022	nom_vac	MMR	lot	1745/18	type	"   measles, mumps, rubella"	technique	SC	date_pro	12/2016	date_exp	12/2017	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0051:2023	nom_vac	Pfizer-BioNTech	lot	1548/20	type	 Covid-19	technique	IM	date_pro	1/2020	date_exp	1/2021	provider 	BioNTech	description	TwoDose
+hmset	info_vac:0052:2024	nom_vac	Pfizer-BioNTech	lot	1478/20	type	 Covid-19	technique	IM	date_pro	12/2020	date_exp	1/2022	provider 	BioNTech	description	TwoDose
+hmset	info_vac:0053:2025	nom_vac	MMR	lot	1789/18	type	"   measles, mumps, rubella"	technique	SC	date_pro	6/2021	date_exp	6/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0054:2026	nom_vac	Moderna	lot	1457/20	type	 Covid-19	technique	IM	date_pro	2/2021	date_exp	2/2022	provider 	Moderna	description	TwoDose
+hmset	info_vac:0055:2027	nom_vac	Moderna	lot	1854/20	type	 Covid-19	technique	IM	date_pro	2/2021	date_exp	1/2022	provider 	Moderna	description	TwoDose
+hmset	info_vac:0056:2028	nom_vac	Moderna	lot	1289/21	type	 Covid-19	technique	IM	date_pro	1/2021	date_exp	1/2022	provider 	Moderna	description	TwoDose
+hmset	info_vac:0057:2029	nom_vac	Pfizer-BioNTech	lot	1479/21	type	 Covid-19	technique	IM	date_pro	1/2020	date_exp	1/2022	provider 	BioNTech	description	TwoDose
+hmset	info_vac:0058:2030	nom_vac	Sinopharm	lot	1579/21	type	 Covid-19	technique	IM	date_pro	1/2020	date_exp	1/2022	provider 	"sinopharmGroupCo.,Ltd"	description	TwoDose
+hmset	info_vac:0059:2031	nom_vac	Sinopharm	lot	1956/20	type	 Covid-19	technique	IM	date_pro	3/2021	date_exp	3/2022	provider 	"sinopharmGroupCo.,Ltd"	description	TwoDose
+hmset	info_vac:0060:2032	nom_vac	Johnson&Johnson	lot	1795/21	type	 Covid-19	technique	IM	date_pro	12/2020	date_exp	12/2022	provider 	Johnson&Johnson	description	TwoDose
+hmset	info_vac:0061:2033	nom_vac	Sinopharm	lot	1795/20	type	 Covid-19	technique	IM	date_pro	12/2020	date_exp	12/2022	provider 	"sinopharmGroupCo.,Ltd"	description	TwoDose
+hmset	info_vac:0062:2034	nom_vac	Novavax	lot	1795/20	type	 Covid-19	technique	IM	date_pro	11/2020	date_exp	11/2021	provider 	Novavax	description	TwoDose
+hmset	info_vac:0063:2035	nom_vac	Novavax	lot	4785/20	type	 Covid-19	technique	IM	date_pro	11/2020	date_exp	11/2021	provider 	Novavax	description	TwoDose
+hmset	info_vac:0064:2036	nom_vac	Novavax	lot	1796/21	type	 Covid-19	technique	IM	date_pro	11/2020	date_exp	11/2021	provider 	Novavax	description	TwoDose
+hmset	info_vac:0065:2037	nom_vac	Novavax	lot	7534/21	type	 Covid-19	technique	IM	date_pro	12/2020	date_exp	12/2021	provider 	Novavax	description	TwoDose
+hmset	info_vac:0066:2038	nom_vac	Sinopharm	lot	7282/20	type	 Covid-19	technique	IM	date_pro	12/2020	date_exp	11/2021	provider 	"sinopharmGroupCo.,Ltd"	description	TwoDose
+hmset	info_vac:0067:2039	nom_vac	Sinopharm	lot	5874/20	type	 Covid-19	technique	IM	date_pro	12/2020	date_exp	11/2021	provider 	"sinopharmGroupCo.,Ltd"	description	TwoDose
+hmset	info_vac:0068:2040	nom_vac	Johnson&Johnson	lot	1585/20	type	 Covid-19	technique	IM	date_pro	12/2020	date_exp	11/2021	provider 	Johnson&Johnson	description	TwoDose
+hmset	info_vac:0069:2041	nom_vac	Johnson&Johnson	lot	1795/20	type	 Covid-19	technique	IM	date_pro	12/2020	date_exp	11/2021	provider 	Johnson&Johnson	description	TwoDose
+hmset	info_vac:0070:2042	nom_vac	Johnson&Johnson	lot	5586/20	type	 Covid-19	technique	IM	date_pro	3/2021	date_exp	3/2022	provider 	Johnson&Johnson	description	TwoDose
+hmset	info_vac:0071:2043	nom_vac	Johnson&Johnson	lot	4589/21	type	 Covid-19	technique	IM	date_pro	3/2021	date_exp	3/2022	provider 	Johnson&Johnson	description	TwoDose
+hmset	info_vac:0072:2044	nom_vac	Johnson&Johnson	lot	1532/21	type	 Covid-19	technique	IM	date_pro	3/2021	date_exp	3/2022	provider 	Johnson&Johnson	description	TwoDose
+hmset	info_vac:0073:2045	nom_vac	HBV	lot	4562/20	type	  hepatitisB	technique	IM	date_pro	6/2018	date_exp	6/2019	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0074:2046	nom_vac	HBV	lot	2568/18	type	  hepatitisB	technique	IM	date_pro	6/2018	date_exp	6/2019	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0075:2047	nom_vac	HBV	lot	1754/19	type	  hepatitisB	technique	IM	date_pro	6/2018	date_exp	6/2019	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0076:2048	nom_vac	HBV	lot	2795/17	type	  hepatitisB	technique	IM	date_pro	6/2018	date_exp	6/2019	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0077:2049	nom_vac	BCG	lot	4287/21	type	 Tuberculosis	technique	IM	date_pro	12/2017	date_exp	12/2018	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0078:2050	nom_vac	HBV	lot	1765/20	type	  hepatitisB	technique	IM	date_pro	9/2019	date_exp	9/2020	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0079:2051	nom_vac	HBV	lot	1552/19	type	  hepatitisB	technique	IM	date_pro	9/2019	date_exp	9/2020	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0080:2052	nom_vac	MMR	lot	1562/20	type	"   measles, mumps, rubella"	technique	SC	date_pro	9/2019	date_exp	9/2020	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0081:2053	nom_vac	HBV	lot	2554/21	type	  hepatitisB	technique	IM	date_pro	9/2019	date_exp	9/2020	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0082:2054	nom_vac	BCG	lot	1785/17	type	 Tuberculosis	technique	ID	date_pro	9/2019	date_exp	9/2020	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0083:2055	nom_vac	HBV	lot	1786/19	type	  hepatitisB	technique	IM	date_pro	9/2019	date_exp	9/2020	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0084:2056	nom_vac	SpoutnikV	lot	7542/20	type	 Covid-19	technique	IM	date_pro	2/2021	date_exp	3/2022	provider 	Gamaleya Research Institute	description	OneDose
+hmset	info_vac:0085:2057	nom_vac	SpoutnikV	lot	4235/21	type	 Covid-19	technique	IM	date_pro	2/2021	date_exp	3/2022	provider 	Gamaleya Research Institute	description	OneDose
+hmset	info_vac:0086:2058	nom_vac	SpoutnikV	lot	7854/21	type	 Covid-19	technique	IM	date_pro	2/2021	date_exp	3/2022	provider 	Gamaleya Research Institute	description	OneDose
+hmset	info_vac:0087:2059	nom_vac	Sinopharm	lot	1765/21	type	 Covid-19	technique	IM	date_pro	2/2021	date_exp	3/2022	provider 	"sinopharmGroupCo.,Ltd"	description	OneDose
+hmset	info_vac:0088:2060	nom_vac	Sinopharm	lot	5934/20	type	 Covid-19	technique	IM	date_pro	2/2021	date_exp	3/2022	provider 	"sinopharmGroupCo.,Ltd"	description	OneDose
+hmset	info_vac:0089:2061	nom_vac	Sinopharm	lot	7215/20	type	 Covid-19	technique	IM	date_pro	2/2021	date_exp	3/2022	provider 	"sinopharmGroupCo.,Ltd"	description	OneDose
+hmset	info_vac:0090:2062	nom_vac	Sinopharm	lot	71452/21	type	 Covid-19	technique	IM	date_pro	2/2021	date_exp	3/2022	provider 	"sinopharmGroupCo.,Ltd"	description	OneDose
+hmset	info_vac:0091:2063	nom_vac	Novavax	lot	0548/21	type	 Covid-19	technique	IM	date_pro	2/2021	date_exp	3/2022	provider 	Novavax	description	OneDose
+hmset	info_vac:0092:2064	nom_vac	Novavax	lot	7852/21	type	 Covid-19	technique	IM	date_pro	2/2021	date_exp	3/2022	provider 	Novavax	description	OneDose
+hmset	info_vac:0093:2065	nom_vac	HBV	lot	8579/19	type	  hepatitisB	technique	IM	date_pro	12/2020	date_exp	12/2021	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0094:2066	nom_vac	Johnson&Johnson	lot	3254/21	type	 Covid-19	technique	IM	date_pro	12/2020	date_exp	12/2021	provider 	Johnson&Johnson	description	OneDose
+hmset	info_vac:0095:2067	nom_vac	Johnson&Johnson	lot	6350/20	type	 Covid-19	technique	IM	date_pro	12/2020	date_exp	12/2021	provider 	Johnson&Johnson	description	OneDose
+hmset	info_vac:0096:2068	nom_vac	Johnson&Johnson	lot	3215/20	type	 Covid-19	technique	IM	date_pro	12/2020	date_exp	12/2021	provider 	Johnson&Johnson	description	OneDose
+hmset	info_vac:0097:2069	nom_vac	Johnson&Johnson	lot	2153/21	type	 Covid-19	technique	IM	date_pro	12/2020	date_exp	12/2021	provider 	Johnson&Johnson	description	OneDose
+hmset	info_vac:0098:2070	nom_vac	Johnson&Johnson	lot	3652/2	type	 Covid-19	technique	IM	date_pro	12/2020	date_exp	12/2021	provider 	Johnson&Johnson	description	OneDose
+hmset	info_vac:0099:2071	nom_vac	AstraZeneca	lot	3691/20	type	 Covid-19	technique	IM	date_pro	12/2020	date_exp	12/2021	provider 	astrazeneca oxford	description	OneDose
+hmset	info_vac:0100:2072	nom_vac	AstraZeneca	lot	0015/21	type	 Covid-19	technique	IM	date_pro	12/2020	date_exp	12/2021	provider 	astrazeneca oxford	description	OneDose
+hmset	info_vac:0101:2073	nom_vac	Johnson&Johnson	lot	0009/21	type	 Covid-19	technique	IM	date_pro	12/2020	date_exp	12/2021	provider 	Johnson&Johnson	description	OneDose
+hmset	info_vac:0102:2074	nom_vac	AstraZeneca	lot	1452/20	type	 Covid-19	technique	IM	date_pro	12/2020	date_exp	12/2021	provider 	astrazeneca oxford	description	OneDose
+hmset	info_vac:0103:2075	nom_vac	AstraZeneca	lot	2103/21	type	 Covid-19	technique	IM	date_pro	12/2020	date_exp	12/2021	provider 	astrazeneca oxford	description	OneDose
+hmset	info_vac:0104:2076	nom_vac	BCG	lot	1254/19	type	 Tuberculosis	technique	IM	date_pro	10/2017	date_exp	10/2018	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0105:2077	nom_vac	HBV	lot	32145/19	type	  hepatitisB	technique	IM	date_pro	10/2017	date_exp	10/2018	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0106:2078	nom_vac	BCG	lot	6753/20	type	 Tuberculosis	technique	IM	date_pro	10/2017	date_exp	10/2018	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0107:2079	nom_vac	Novavax	lot	1475/20	type	 Covid-19	technique	IM	date_pro	5/2021	date_exp	5/2023	provider 	Novavax	description	OneDose
+hmset	info_vac:0108:2080	nom_vac	Moderna	lot	1236/20	type	 Covid-19	technique	IM	date_pro	5/2021	date_exp	5/2023	provider 	Moderna	description	OneDose
+hmset	info_vac:0109:2081	nom_vac	SpoutnikV	lot	1478/21	type	 Covid-19	technique	IM	date_pro	5/2021	date_exp	5/2023	provider 	Gamaleya Research Institute	description	OneDose
+hmset	info_vac:0110:2082	nom_vac	Moderna	lot	1259/21	type	 Covid-19	technique	IM	date_pro	5/2021	date_exp	5/2023	provider 	Moderna	description	OneDose
+hmset	info_vac:0111:2083	nom_vac	MMR	lot	3254/21	type	"   measles, mumps, rubella"	technique	SC	date_pro	6/2019	date_exp	5/2023	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0112:2084	nom_vac	SpoutnikV	lot	4235/20	type	 Covid-19	technique	IM	date_pro	4/2021	date_exp	5/2023	provider 	Gamaleya Research Institute	description	OneDose
+hmset	info_vac:0113:2085	nom_vac	AstraZeneca	lot	1238/20	type	 Covid-19	technique	IM	date_pro	4/2021	date_exp	5/2023	provider 	astrazeneca oxford	description	OneDose
+hmset	info_vac:0114:2086	nom_vac	Moderna	lot	2365/21	type	 Covid-19	technique	IM	date_pro	4/2021	date_exp	5/2023	provider 	Moderna	description	OneDose
+hmset	info_vac:0115:2087	nom_vac	Pfizer-BioNTech	lot	1230/21	type	 Covid-19	technique	IM	date_pro	4/2021	date_exp	5/2023	provider 	BioNTech	description	OneDose
+hmset	info_vac:0116:2088	nom_vac	Novavax	lot	0012/21	type	 Covid-19	technique	IM	date_pro	4/2021	date_exp	5/2023	provider 	Novavax	description	OneDose
+hmset	info_vac:0117:2089	nom_vac	Johnson&Johnson	lot	0331/21	type	 Covid-19	technique	IM	date_pro	4/2021	date_exp	5/2023	provider 	Johnson&Johnson	description	OneDose
+hmset	info_vac:0118:2090	nom_vac	Sinopharm	lot	0260/20	type	 Covid-19	technique	IM	date_pro	4/2021	date_exp	5/2023	provider 	"sinopharmGroupCo.,Ltd"	description	OneDose
+hmset	info_vac:0119:2091	nom_vac	BCG	lot	21234/21	type	 Tuberculosis	technique	VO	date_pro	9/2020	date_exp	9/2021	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0120:2092	nom_vac	HBV	lot	3658/19	type	  hepatitisB	technique	IM	date_pro	3/2018	date_exp	3/2019	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0121:2093	nom_vac	MMR	lot	2350/18	type	"   measles, mumps, rubella"	technique	SC	date_pro	2/2017	date_exp	2/2018	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0122:2094	nom_vac	SpoutnikV	lot	2001/21	type	 Covid-19	technique	IM	date_pro	10/2020	date_exp	10/2021	provider 	Gamaleya Research Institute	description	OneDose
+hmset	info_vac:0123:2095	nom_vac	HBV	lot	2300/19	type	  hepatitisB	technique	IM	date_pro	6/2017	date_exp	7/2018	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0124:2096	nom_vac	Moderna	lot	0024/20	type	 Covid-19	technique	IM	date_pro	12/2020	date_exp	12/2021	provider 	Moderna	description	OneDose
+hmset	info_vac:0125:2097	nom_vac	Moderna	lot	2103/21	type	 Covid-19	technique	IM	date_pro	12/2020	date_exp	12/2021	provider 	Moderna	description	OneDose
+hmset	info_vac:0126:2098	nom_vac	BCG	lot	1301/21	type	 Tuberculosis	technique	VO	date_pro	12/2020	date_exp	12/2021	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0127:2099	nom_vac	MMR	lot	1420/19	type	"   measles, mumps, rubella"	technique	SC	date_pro	12/2020	date_exp	12/2021	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0128:2100	nom_vac	AstraZeneca	lot	4003/20	type	 Covid-19	technique	IM	date_pro	11/2020	date_exp	11/2021	provider 	astrazeneca oxford	description	OneDose
+hmset	info_vac:0129:2101	nom_vac	BCG	lot	4560/19	type	  hepatitisB	technique	IM	date_pro	11/2020	date_exp	11/2021	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0130:2102	nom_vac	Moderna	lot	2547/20	type	 Covid-19	technique	IM	date_pro	11/2020	date_exp	11/2021	provider 	Moderna	description	OneDose
+hmset	info_vac:0131:1027	nom_vac	SpoutnikV	lot	2357/21	type	 Covid-19	technique	IM	date_pro	8/2020	date_exp	8/2021	provider 	Gamaleya Research Institute	description	TwoDose
+hmset	info_vac:0132:1028	nom_vac	Moderna	lot	6625/21	type	 Covid-19	technique	IM	date_pro	7/2020	date_exp	7/2021	provider 	Moderna	description	OneDose
+hmset	info_vac:0133:1029	nom_vac	Pfizer-BioNTech	lot	6417/21	type	 Covid-19	technique	IM	date_pro	10/2020	date_exp	10/2021	provider 	BioNTech	description	TwoDose
+hmset	info_vac:0134:1030	nom_vac	Pfizer-BioNTech	lot	5922/20	type	 Covid-19	technique	IM	date_pro	01/2020	date_exp	01/2022	provider 	BioNTech	description	TwoDose
+hmset	info_vac:0135:1031	nom_vac	HBV	lot	6236/19	type	  hepatitisB	technique	IM	date_pro	01/2021	date_exp	01/2023	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0136:1032	nom_vac	BCG	lot	1286/21	type	 Covid-19	technique	IM	date_pro	1/2021	date_exp	1/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0137:1033	nom_vac	Moderna	lot	239/20	type	  hepatitisB	technique	IM	date_pro	11/2020	date_exp	11/2021	provider 	Moderna	description	TwoDose
+hmset	info_vac:0138:1034	nom_vac	MMR	lot	873/21	type	 Covid-19	technique	IM	date_pro	3/2020	date_exp	3/2021	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0139:1035	nom_vac	Moderna	lot	5284/20	type	 Covid-19	technique	IM	date_pro	6/2021	date_exp	6/2022	provider 	Moderna	description	TwoDose
+hmset	info_vac:0140:1036	nom_vac	HBV	lot	6394/21	type	 Covid-19	technique	IM	date_pro	6/2021	date_exp	6/2022	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0141:1037	nom_vac	Sinopharm	lot	583/19	type	  hepatitisB	technique	IM	date_pro	8/2020	date_exp	8/2021	provider 	SinopharmGroupCoLtd	description	TwoDose
+hmset	info_vac:0142:1038	nom_vac	MMR	lot	5695/21	type	 Covid-19	technique	IM	date_pro	02/2021	date_exp	02/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0143:1039	nom_vac	BCG	lot	1029/21	type	  hepatitisB	technique	IM	date_pro	5/2021	date_exp	5/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0144:1040	nom_vac	MMR	lot	5906/21	type	 Covid-19	technique	IM	date_pro	6/2021	date_exp	6/2022	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0145:1041	nom_vac	Moderna	lot	468/21	type	 Tuberculosis	technique	ID	date_pro	11/2020	date_exp	11/2021	provider 	Moderna	description	OneDose
+hmset	info_vac:0146:1042	nom_vac	Pfizer-BioNTech	lot	2371/21	type	 Covid-19	technique	IM	date_pro	5/2020	date_exp	5/2021	provider 	BioNTech	description	OneDose
+hmset	info_vac:0147:1043	nom_vac	BCG	lot	1702/20	type	 Covid-19	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0148:1044	nom_vac	HBV	lot	2777/21	type	"   measles, mumps, rubella"	technique	SC	date_pro	01/2021	date_exp	01/2021	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0149:1045	nom_vac	Sinopharm	lot	3664/21	type	 Covid-19	technique	IM	date_pro	04/2021	date_exp	04/2022	provider 	SinopharmGroupCoLtd	description	OneDose
+hmset	info_vac:0150:1046	nom_vac	HBV	lot	1892/20	type	  hepatitisB	technique	IM	date_pro	02/2021	date_exp	02/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0151:1047	nom_vac	HBV	lot	451/20	type	 Covid-19	technique	IM	date_pro	5/2020	date_exp	5/2021	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0152:1048	nom_vac	MMR	lot	1082/21	type	 Covid-19	technique	IM	date_pro	4/2020	date_exp	4/2021	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0153:1049	nom_vac	BCG	lot	2519/21	type	  hepatitisB	technique	IM	date_pro	2/2020	date_exp	2/2021	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0154:1050	nom_vac	Johnson&Johnson	lot	4243/19	type	  hepatitisB	technique	IM	date_pro	6/2020	date_exp	6/2021	provider 	Johnson&Johnson	description	TwoDose
+hmset	info_vac:0155:1051	nom_vac	HBV	lot	2414/21	type	 Covid-19	technique	IM	date_pro	8/2020	date_exp	8/2021	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0156:1052	nom_vac	Novavax	lot	6852/19	type	 Tuberculosis	technique	ID	date_pro	5/2020	date_exp	5/2021	provider 	Novavax	description	TwoDose
+hmset	info_vac:0157:1053	nom_vac	SpoutnikV	lot	3895/20	type	 Tuberculosis	technique	ID	date_pro	3/2020	date_exp	3/2021	provider 	Gamaleya_Research_Institute	description	OneDose
+hmset	info_vac:0158:1054	nom_vac	MMR	lot	4734/21	type	 Covid-19	technique	IM	date_pro	7/2020	date_exp	7/2021	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0159:1055	nom_vac	BCG	lot	5133/20	type	 Covid-19	technique	IM	date_pro	5/2020	date_exp	5/2021	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0160:1056	nom_vac	Novavax	lot	6044/21	type	 Covid-19	technique	IM	date_pro	01/2021	date_exp	01/2022	provider 	Novavax	description	OneDose
+hmset	info_vac:0161:1057	nom_vac	Johnson&Johnson	lot	6590/20	type	 Covid-19	technique	IM	date_pro	7/2020	date_exp	7/2021	provider 	Johnson&Johnson	description	TwoDose
+hmset	info_vac:0162:1058	nom_vac	Moderna	lot	3467/19	type	"   measles, mumps, rubella"	technique	SC	date_pro	3/2020	date_exp	3/2021	provider 	Moderna	description	OneDose
+hmset	info_vac:0163:1059	nom_vac	BCG	lot	2954/19	type	 Covid-19	technique	IM	date_pro	7/2020	date_exp	7/2021	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0164:1060	nom_vac	Pfizer-BioNTech	lot	2040/21	type	 Covid-19	technique	IM	date_pro	1/2021	date_exp	1/2022	provider 	BioNTech	description	OneDose
+hmset	info_vac:0165:1061	nom_vac	Sinopharm	lot	4108/19	type	  hepatitisB	technique	IM	date_pro	7/2020	date_exp	7/2021	provider 	SinopharmGroupCoLtd	description	TwoDose
+hmset	info_vac:0166:1062	nom_vac	MMR	lot	1064/21	type	 Covid-19	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0167:1063	nom_vac	HBV	lot	221	type	"   measles, mumps, rubella"	technique	SC	date_pro	9/2020	date_exp	9/2021	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0168:1064	nom_vac	SpoutnikV	lot	2044/20	type	 Covid-19	technique	IM	date_pro	4/2021	date_exp	4/2022	provider 	Gamaleya_Research_Institute	description	TwoDose
+hmset	info_vac:0169:1065	nom_vac	MMR	lot	2177/20	type	"   measles, mumps, rubella"	technique	SC	date_pro	8/2020	date_exp	8/2021	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0170:1066	nom_vac	Novavax	lot	2752/20	type	 Tuberculosis	technique	IM	date_pro	3/2020	date_exp	3/2021	provider 	Novavax	description	TwoDose
+hmset	info_vac:0171:1067	nom_vac	SpoutnikV	lot	1857/20	type	 Covid-19	technique	IM	date_pro	7/2020	date_exp	7/2021	provider 	Gamaleya_Research_Institute	description	OneDose
+hmset	info_vac:0172:1068	nom_vac	BCG	lot	2063/19	type	 Covid-19	technique	IM	date_pro	6/2021	date_exp	6/2022	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0173:1069	nom_vac	SpoutnikV	lot	6289/20	type	 Tuberculosis	technique	ID	date_pro	6/2020	date_exp	6/2021	provider 	Gamaleya_Research_Institute	description	TwoDose
+hmset	info_vac:0174:1070	nom_vac	Sinopharm	lot	2107/19	type	  hepatitisB	technique	IM	date_pro	4/2020	date_exp	4/2021	provider 	SinopharmGroupCoLtd	description	OneDose
+hmset	info_vac:0175:1071	nom_vac	Sinopharm	lot	2663/21	type	  hepatitisB	technique	IM	date_pro	01/2021	date_exp	01/2022	provider 	SinopharmGroupCoLtd	description	OneDose
+hmset	info_vac:0176:1072	nom_vac	Pfizer-BioNTech	lot	5383/19	type	"   measles, mumps, rubella"	technique	IM	date_pro	9/2020	date_exp	9/2021	provider 	BioNTech	description	OneDose
+hmset	info_vac:0177:1073	nom_vac	Johnson&Johnson	lot	6483/19	type	 Tuberculosis	technique	VO	date_pro	3/2020	date_exp	3/2021	provider 	Johnson&Johnson	description	OneDose
+hmset	info_vac:0178:1074	nom_vac	Johnson&Johnson	lot	6208/19	type	 Tuberculosis	technique	VO	date_pro	4/2021	date_exp	4/2022	provider 	Johnson&Johnson	description	OneDose
+hmset	info_vac:0179:1075	nom_vac	MMR	lot	6639/20	type	  hepatitisB	technique	IM	date_pro	12/2020	date_exp	12/2021	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0180:1076	nom_vac	HBV	lot	821	type	 Covid-19	technique	IM	date_pro	9/2020	date_exp	9/2021	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0181:1077	nom_vac	HBV	lot	320	type	 Covid-19	technique	IM	date_pro	9/2020	date_exp	9/2021	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0182:1078	nom_vac	SpoutnikV	lot	2775/21	type	 Covid-19	technique	IM	date_pro	6/2020	date_exp	6/2021	provider 	Gamaleya_Research_Institute	description	OneDose
+hmset	info_vac:0183:1079	nom_vac	Sinopharm	lot	3757/20	type	 Covid-19	technique	IM	date_pro	02/2021	date_exp	02/2022	provider 	SinopharmGroupCoLtd	description	TwoDose
+hmset	info_vac:0184:1080	nom_vac	HBV	lot	5217/21	type	 Covid-19	technique	IM	date_pro	3/2021	date_exp	3/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0185:1081	nom_vac	Moderna	lot	1071/21	type	 Covid-19	technique	IM	date_pro	8/2020	date_exp	8/2021	provider 	Moderna	description	TwoDose
+hmset	info_vac:0186:1082	nom_vac	BCG	lot	1574/21	type	  hepatitisB	technique	IM	date_pro	5/2020	date_exp	5/2021	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0187:1083	nom_vac	Novavax	lot	1804/21	type	  hepatitisB	technique	IM	date_pro	05/2021	date_exp	05/2022	provider 	Novavax	description	TwoDose
+hmset	info_vac:0188:1084	nom_vac	BCG	lot	1560/21	type	  hepatitisB	technique	IM	date_pro	05/2021	date_exp	05/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0189:1085	nom_vac	Pfizer-BioNTech	lot	4364/21	type	 Covid-19	technique	IM	date_pro	3/2021	date_exp	3/2022	provider 	BioNTech	description	OneDose
+hmset	info_vac:0190:1086	nom_vac	MMR	lot	888/20	type	 Covid-19	technique	IM	date_pro	6/2021	date_exp	6/2022	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0191:1087	nom_vac	SpoutnikV	lot	2481/21	type	"   measles, mumps, rubella"	technique	SC	date_pro	6/2020	date_exp	6/2021	provider 	Gamaleya_Research_Institute	description	TwoDose
+hmset	info_vac:0192:1088	nom_vac	Sinopharm	lot	3274/21	type	 Covid-19	technique	IM	date_pro	12/2020	date_exp	12/2021	provider 	SinopharmGroupCoLtd	description	TwoDose
+hmset	info_vac:0193:1089	nom_vac	BCG	lot	4875/21	type	"   measles, mumps, rubella"	technique	SC	date_pro	8/2020	date_exp	8/2021	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0194:1090	nom_vac	Pfizer-BioNTech	lot	319/21	type	 Covid-19	technique	IM	date_pro	05/2021	date_exp	05/2022	provider 	BioNTech	description	TwoDose
+hmset	info_vac:0195:1091	nom_vac	Novavax	lot	1685/21	type	 Covid-19	technique	IM	date_pro	6/2021	date_exp	6/2022	provider 	Novavax	description	TwoDose
+hmset	info_vac:0196:1092	nom_vac	MMR	lot	3021/19	type	  hepatitisB	technique	IM	date_pro	5/2020	date_exp	5/2021	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0197:1093	nom_vac	BCG	lot	3380/21	type	 Tuberculosis	technique	VO	date_pro	03/2021	date_exp	03/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0198:1094	nom_vac	HBV	lot	2411/21	type	 Covid-19	technique	IM	date_pro	3/2021	date_exp	3/2022	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0199:1095	nom_vac	Moderna	lot	1925/21	type	 Covid-19	technique	IM	date_pro	10/2020	date_exp	10/2022	provider 	Moderna	description	OneDose
+hmset	info_vac:0200:1096	nom_vac	Johnson&Johnson	lot	6213/19	type	  hepatitisB	technique	IM	date_pro	06/2021	date_exp	06/2022	provider 	Johnson&Johnson	description	TwoDose
+hmset	info_vac:0201:1097	nom_vac	Pfizer-BioNTech	lot	1013/21	type	 Covid-19	technique	IM	date_pro	7/2020	date_exp	7/2021	provider 	BioNTech	description	TwoDose
+hmset	info_vac:0202:1098	nom_vac	MMR	lot	1162/21	type	 Covid-19	technique	IM	date_pro	01/2021	date_exp	01/2022	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0203:1099	nom_vac	Novavax	lot	5838/20	type	 Tuberculosis	technique	ID	date_pro	8/2020	date_exp	8/2021	provider 	Novavax	description	OneDose
+hmset	info_vac:0204:1100	nom_vac	Novavax	lot	349/21	type	 Covid-19	technique	IM	date_pro	8/2020	date_exp	8/2021	provider 	Novavax	description	OneDose
+hmset	info_vac:0205:1500	nom_vac	Pfizer-BioNTech	lot	273/20	type	 Tuberculosis	technique	IM	date_pro	3/2021	date_exp	3/2022	provider 	BioNTech	description	OneDose
+hmset	info_vac:0206:1501	nom_vac	SpoutnikV	lot	4885/21	type	 Covid-19	technique	IM	date_pro	02/2021	date_exp	02/2022	provider 	Gamaleya_Research_Institute	description	TwoDose
+hmset	info_vac:0207:1502	nom_vac	Moderna	lot	6075/21	type	  hepatitisB	technique	IM	date_pro	7/2020	date_exp	7/2021	provider 	Moderna	description	TwoDose
+hmset	info_vac:0208:1503	nom_vac	Pfizer-BioNTech	lot	785/20	type	 Covid-19	technique	IM	date_pro	2/2020	date_exp	2/2021	provider 	BioNTech	description	TwoDose
+hmset	info_vac:0209:1504	nom_vac	MMR	lot	5866/19	type	  hepatitisB	technique	IM	date_pro	05/2021	date_exp	05/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0210:1505	nom_vac	Novavax	lot	6455/21	type	 Covid-19	technique	IM	date_pro	6/2020	date_exp	6/2021	provider 	Novavax	description	OneDose
+hmset	info_vac:0211:1506	nom_vac	Moderna	lot	3000/21	type	 Covid-19	technique	IM	date_pro	4/2020	date_exp	4/2021	provider 	Moderna	description	OneDose
+hmset	info_vac:0212:1507	nom_vac	Novavax	lot	4702/21	type	 Covid-19	technique	IM	date_pro	4/2020	date_exp	4/2021	provider 	Novavax	description	TwoDose
+hmset	info_vac:0213:1508	nom_vac	Novavax	lot	4158/21	type	 Covid-19	technique	IM	date_pro	7/2020	date_exp	7/2021	provider 	Novavax	description	OneDose
+hmset	info_vac:0214:1509	nom_vac	Moderna	lot	3048/21	type	 Covid-19	technique	IM	date_pro	3/2021	date_exp	3/2022	provider 	Moderna	description	OneDose
+hmset	info_vac:0215:1510	nom_vac	SpoutnikV	lot	5064/21	type	 Tuberculosis	technique	IM	date_pro	3/2020	date_exp	3/2021	provider 	Gamaleya_Research_Institute	description	TwoDose
+hmset	info_vac:0216:1511	nom_vac	SpoutnikV	lot	3604/19	type	 Covid-19	technique	IM	date_pro	7/2020	date_exp	7/2021	provider 	Gamaleya_Research_Institute	description	TwoDose
+hmset	info_vac:0217:1512	nom_vac	Moderna	lot	3736/21	type	 Covid-19	technique	IM	date_pro	2/2020	date_exp	2/2022	provider 	Moderna	description	OneDose
+hmset	info_vac:0218:1513	nom_vac	HBV	lot	6750/20	type	 Covid-19	technique	IM	date_pro	12/2020	date_exp	12/2021	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0219:1514	nom_vac	SpoutnikV	lot	1361/20	type	  hepatitisB	technique	IM	date_pro	5/2021	date_exp	5/2022	provider 	Gamaleya_Research_Institute	description	TwoDose
+hmset	info_vac:0220:1515	nom_vac	HBV	lot	6193/20	type	  hepatitisB	technique	IM	date_pro	10/2020	date_exp	10/2021	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0221:1516	nom_vac	Pfizer-BioNTech	lot	1259/21	type	 Covid-19	technique	IM	date_pro	6/2020	date_exp	6/2021	provider 	BioNTech	description	OneDose
+hmset	info_vac:0222:1517	nom_vac	HBV	lot	2172/19	type	 Tuberculosis	technique	IM	date_pro	2/2020	date_exp	2/2021	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0223:1518	nom_vac	BCG	lot	5051/20	type	 Covid-19	technique	IM	date_pro	01/2021	date_exp	01/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0224:1519	nom_vac	SpoutnikV	lot	2008/20	type	 Covid-19	technique	IM	date_pro	2/2021	date_exp	2/2022	provider 	Gamaleya_Research_Institute	description	TwoDose
+hmset	info_vac:0225:1520	nom_vac	MMR	lot	1446/21	type	 Covid-19	technique	IM	date_pro	06/2021	date_exp	06/2022	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0226:1521	nom_vac	Johnson&Johnson	lot	899/20	type	 Covid-19	technique	IM	date_pro	4/2020	date_exp	4/2022	provider 	Johnson&Johnson	description	OneDose
+hmset	info_vac:0227:1522	nom_vac	Moderna	lot	3391/19	type	"   measles, mumps, rubella"	technique	SC	date_pro	03/2021	date_exp	03/2022	provider 	Moderna	description	TwoDose
+hmset	info_vac:0228:1523	nom_vac	MMR	lot	761/19	type	 Covid-19	technique	IM	date_pro	12/2020	date_exp	12/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0229:1524	nom_vac	Moderna	lot	5718/20	type	 Covid-19	technique	IM	date_pro	5/2021	date_exp	5/2022	provider 	Moderna	description	TwoDose
+hmset	info_vac:0230:1525	nom_vac	Novavax	lot	5746/20	type	 Covid-19	technique	IM	date_pro	2/2021	date_exp	2/2022	provider 	Novavax	description	TwoDose
+hmset	info_vac:0231:1526	nom_vac	SpoutnikV	lot	443/21	type	 Covid-19	technique	IM	date_pro	3/2020	date_exp	3/2021	provider 	Gamaleya_Research_Institute	description	OneDose
+hmset	info_vac:0232:1527	nom_vac	SpoutnikV	lot	3559/21	type	 Covid-19	technique	IM	date_pro	4/2021	date_exp	4/2022	provider 	Gamaleya_Research_Institute	description	TwoDose
+hmset	info_vac:0233:1528	nom_vac	BCG	lot	6858/20	type	 Covid-19	technique	IM	date_pro	1/2021	date_exp	1/2022	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0234:1529	nom_vac	Johnson&Johnson	lot	723/21	type	 Covid-19	technique	IM	date_pro	3/2020	date_exp	3/2021	provider 	Johnson&Johnson	description	OneDose
+hmset	info_vac:0235:1530	nom_vac	MMR	lot	5507/21	type	 Covid-19	technique	IM	date_pro	8/2020	date_exp	8/2021	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0236:1531	nom_vac	Sinopharm	lot	3907/21	type	 Tuberculosis	technique	ID	date_pro	6/2021	date_exp	6/2022	provider 	SinopharmGroupCoLtd	description	OneDose
+hmset	info_vac:0237:1532	nom_vac	BCG	lot	1249/20	type	 Tuberculosis	technique	ID	date_pro	3/2020	date_exp	3/2021	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0238:1533	nom_vac	SpoutnikV	lot	3938/21	type	  hepatitisB	technique	IM	date_pro	1/2020	date_exp	1/2021	provider 	Gamaleya_Research_Institute	description	TwoDose
+hmset	info_vac:0239:1534	nom_vac	Novavax	lot	3974/21	type	 Covid-19	technique	IM	date_pro	9/2020	date_exp	9/2021	provider 	Novavax	description	TwoDose
+hmset	info_vac:0240:1535	nom_vac	Moderna	lot	5532/20	type	 Covid-19	technique	IM	date_pro	4/2020	date_exp	4/2021	provider 	Moderna	description	TwoDose
+hmset	info_vac:0241:1536	nom_vac	Novavax	lot	5029/21	type	 Covid-19	technique	IM	date_pro	5/2021	date_exp	5/2022	provider 	Novavax	description	OneDose
+hmset	info_vac:0242:1537	nom_vac	Johnson&Johnson	lot	878/20	type	 Covid-19	technique	IM	date_pro	06/2021	date_exp	06/2022	provider 	Johnson&Johnson	description	TwoDose
+hmset	info_vac:0243:1538	nom_vac	HBV	lot	2845/20	type	 Covid-19	technique	IM	date_pro	04/2021	date_exp	04/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0244:1539	nom_vac	Pfizer-BioNTech	lot	1457/21	type	 Covid-19	technique	IM	date_pro	1/2020	date_exp	1/2021	provider 	BioNTech	description	TwoDose
+hmset	info_vac:0245:1540	nom_vac	MMR	lot	6355/19	type	 Tuberculosis	technique	IM	date_pro	02/2021	date_exp	02/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0246:1541	nom_vac	Johnson&Johnson	lot	1160/20	type	  hepatitisB	technique	IM	date_pro	5/2021	date_exp	5/2022	provider 	Johnson&Johnson	description	TwoDose
+hmset	info_vac:0247:1542	nom_vac	Moderna	lot	2451/21	type	 Covid-19	technique	IM	date_pro	4/2021	date_exp	4/2022	provider 	Moderna	description	TwoDose
+hmset	info_vac:0248:1543	nom_vac	Moderna	lot	3614/19	type	  hepatitisB	technique	IM	date_pro	3/2020	date_exp	3/2021	provider 	Moderna	description	TwoDose
+hmset	info_vac:0249:1544	nom_vac	Johnson&Johnson	lot	1069/20	type	"   measles, mumps, rubella"	technique	SC	date_pro	05/2021	date_exp	05/2022	provider 	Johnson&Johnson	description	OneDose
+hmset	info_vac:0250:1545	nom_vac	BCG	lot	3876/20	type	 Covid-19	technique	IM	date_pro	8/2020	date_exp	8/2021	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0251:1546	nom_vac	BCG	lot	6589/21	type	  hepatitisB	technique	IM	date_pro	2/2020	date_exp	2/2021	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0252:1547	nom_vac	Pfizer-BioNTech	lot	3523/21	type	 Covid-19	technique	IM	date_pro	3/2021	date_exp	3/2022	provider 	BioNTech	description	TwoDose
+hmset	info_vac:0253:1548	nom_vac	Pfizer-BioNTech	lot	5698/20	type	"   measles, mumps, rubella"	technique	SC	date_pro	2/2020	date_exp	2/2021	provider 	BioNTech	description	TwoDose
+hmset	info_vac:0254:1549	nom_vac	Sinopharm	lot	6842/21	type	 Covid-19	technique	IM	date_pro	2/2020	date_exp	2/2022	provider 	SinopharmGroupCoLtd	description	OneDose
+hmset	info_vac:0255:1550	nom_vac	Johnson&Johnson	lot	5150/21	type	 Covid-19	technique	IM	date_pro	06/2021	date_exp	06/2022	provider 	Johnson&Johnson	description	OneDose
+hmset	info_vac:0256:1551	nom_vac	MMR	lot	6021/21	type	 Covid-19	technique	IM	date_pro	1/2020	date_exp	1/2021	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0257:1552	nom_vac	MMR	lot	4008/21	type	 Covid-19	technique	IM	date_pro	02/2021	date_exp	02/2021	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0258:1553	nom_vac	MMR	lot	5143/21	type	 Covid-19	technique	IM	date_pro	10/2020	date_exp	10/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0259:1554	nom_vac	MMR	lot	488/21	type	 Covid-19	technique	IM	date_pro	2/2021	date_exp	2/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0260:1555	nom_vac	SpoutnikV	lot	5441/21	type	 Covid-19	technique	IM	date_pro	1/2021	date_exp	1/2022	provider 	Gamaleya_Research_Institute	description	TwoDose
+hmset	info_vac:0261:1556	nom_vac	Pfizer-BioNTech	lot	1078/21	type	 Covid-19	technique	IM	date_pro	6/2021	date_exp	6/2022	provider 	BioNTech	description	OneDose
+hmset	info_vac:0262:1557	nom_vac	Pfizer-BioNTech	lot	6552/21	type	 Tuberculosis	technique	ID	date_pro	9/2020	date_exp	9/2021	provider 	BioNTech	description	OneDose
+hmset	info_vac:0263:1558	nom_vac	Johnson&Johnson	lot	5119/21	type	 Covid-19	technique	IM	date_pro	1/2021	date_exp	1/2022	provider 	Johnson&Johnson	description	TwoDose
+hmset	info_vac:0264:1559	nom_vac	Sinopharm	lot	3183/21	type	 Covid-19	technique	IM	date_pro	04/2021	date_exp	04/2022	provider 	SinopharmGroupCoLtd	description	OneDose
+hmset	info_vac:0265:1560	nom_vac	BCG	lot	6235/20	type	 Covid-19	technique	IM	date_pro	1/2021	date_exp	1/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0266:1561	nom_vac	Novavax	lot	2651/20	type	 Covid-19	technique	IM	date_pro	2/2020	date_exp	2/2023	provider 	Novavax	description	OneDose
+hmset	info_vac:0267:1562	nom_vac	SpoutnikV	lot	4965/21	type	"   measles, mumps, rubella"	technique	SC	date_pro	11/2020	date_exp	11/2021	provider 	Gamaleya_Research_Institute	description	TwoDose
+hmset	info_vac:0268:1563	nom_vac	Johnson&Johnson	lot	5107/21	type	"   measles, mumps, rubella"	technique	SC	date_pro	4/2021	date_exp	4/2022	provider 	Johnson&Johnson	description	TwoDose
+hmset	info_vac:0269:1564	nom_vac	Novavax	lot	4647/21	type	 Covid-19	technique	IM	date_pro	11/2020	date_exp	11/2021	provider 	Novavax	description	OneDose
+hmset	info_vac:0270:1565	nom_vac	Johnson&Johnson	lot	1755/21	type	 Covid-19	technique	IM	date_pro	8/2020	date_exp	8/2021	provider 	Johnson&Johnson	description	TwoDose
+hmset	info_vac:0271:1566	nom_vac	Moderna	lot	5255/21	type	 Covid-19	technique	IM	date_pro	12/2020	date_exp	12/2021	provider 	Moderna	description	TwoDose
+hmset	info_vac:0272:1567	nom_vac	SpoutnikV	lot	956/20	type	 Covid-19	technique	IM	date_pro	2/2020	date_exp	2/2021	provider 	Gamaleya_Research_Institute	description	OneDose
+hmset	info_vac:0273:1568	nom_vac	Sinopharm	lot	6045/21	type	 Covid-19	technique	IM	date_pro	3/2020	date_exp	3/2021	provider 	SinopharmGroupCoLtd	description	TwoDose
+hmset	info_vac:0274:1569	nom_vac	Novavax	lot	4682/19	type	 Tuberculosis	technique	IM	date_pro	02/2021	date_exp	02/2022	provider 	Novavax	description	TwoDose
+hmset	info_vac:0275:1570	nom_vac	Moderna	lot	2949/21	type	 Covid-19	technique	IM	date_pro	5/2020	date_exp	5/2021	provider 	Moderna	description	OneDose
+hmset	info_vac:0276:1571	nom_vac	BCG	lot	1834/20	type	 Covid-19	technique	IM	date_pro	02/2021	date_exp	02/2022	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0277:1572	nom_vac	Novavax	lot	3733/20	type	 Covid-19	technique	IM	date_pro	03/2021	date_exp	03/2023	provider 	Novavax	description	TwoDose
+hmset	info_vac:0278:1573	nom_vac	Sinopharm	lot	6656/21	type	"   measles, mumps, rubella"	technique	SC	date_pro	6/2021	date_exp	6/2024	provider 	SinopharmGroupCoLtd	description	OneDose
+hmset	info_vac:0279:1574	nom_vac	Moderna	lot	6187/21	type	 Covid-19	technique	IM	date_pro	02/2021	date_exp	02/2022	provider 	Moderna	description	TwoDose
+hmset	info_vac:0280:1575	nom_vac	HBV	lot	561/20	type	 Covid-19	technique	IM	date_pro	8/2020	date_exp	8/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0281:1576	nom_vac	BCG	lot	2702/21	type	 Covid-19	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0282:1577	nom_vac	Sinopharm	lot	6102/21	type	"   measles, mumps, rubella"	technique	SC	date_pro	3/2021	date_exp	3/2023	provider 	SinopharmGroupCoLtd	description	OneDose
+hmset	info_vac:0283:1578	nom_vac	Sinopharm	lot	4218/21	type	 Covid-19	technique	IM	date_pro	05/2021	date_exp	05/2022	provider 	SinopharmGroupCoLtd	description	TwoDose
+hmset	info_vac:0284:1579	nom_vac	MMR	lot	1827/21	type	 Covid-19	technique	IM	date_pro	01/2021	date_exp	01/2022	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0285:1580	nom_vac	BCG	lot	5510/20	type	 Covid-19	technique	IM	date_pro	11/2020	date_exp	11/2021	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0286:1581	nom_vac	SpoutnikV	lot	943/20	type	 Covid-19	technique	IM	date_pro	5/2020	date_exp	5/2021	provider 	Gamaleya_Research_Institute	description	TwoDose
+hmset	info_vac:0287:1582	nom_vac	Pfizer-BioNTech	lot	5613/20	type	"   measles, mumps, rubella"	technique	SC	date_pro	11/2020	date_exp	11/2021	provider 	BioNTech	description	TwoDose
+hmset	info_vac:0288:1583	nom_vac	SpoutnikV	lot	4705/19	type	  hepatitisB	technique	IM	date_pro	04/2021	date_exp	04/2022	provider 	Gamaleya_Research_Institute	description	TwoDose
+hmset	info_vac:0289:1584	nom_vac	HBV	lot	6348/20	type	  hepatitisB	technique	IM	date_pro	7/2020	date_exp	7/2021	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0290:1585	nom_vac	BCG	lot	5139/20	type	  hepatitisB	technique	IM	date_pro	01/2021	date_exp	01/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0291:1586	nom_vac	Johnson&Johnson	lot	1225/21	type	 Covid-19	technique	IM	date_pro	1/2021	date_exp	1/2022	provider 	Johnson&Johnson	description	TwoDose
+hmset	info_vac:0292:1587	nom_vac	BCG	lot	1697/20	type	 Covid-19	technique	IM	date_pro	3/2021	date_exp	03/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0293:1588	nom_vac	MMR	lot	294/19	type	 Tuberculosis	technique	ID	date_pro	06/2021	date_exp	06/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0294:1589	nom_vac	Johnson&Johnson	lot	307/21	type	 Covid-19	technique	IM	date_pro	1/2021	date_exp	1/2022	provider 	Johnson&Johnson	description	TwoDose
+hmset	info_vac:0295:1590	nom_vac	Sinopharm	lot	2415/21	type	 Tuberculosis	technique	IM	date_pro	5/2021	date_exp	5/2022	provider 	SinopharmGroupCoLtd	description	TwoDose
+hmset	info_vac:0296:1591	nom_vac	HBV	lot	1874/21	type	 Covid-19	technique	IM	date_pro	2/2020	date_exp	2/2021	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0297:1592	nom_vac	SpoutnikV	lot	1321/21	type	 Tuberculosis	technique	IM	date_pro	10/2020	date_exp	10/2021	provider 	Gamaleya_Research_Institute	description	TwoDose
+hmset	info_vac:0298:1593	nom_vac	BCG	lot	412/21	type	 Covid-19	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0299:1594	nom_vac	MMR	lot	998/21	type	 Covid-19	technique	IM	date_pro	10/2020	date_exp	10/2021	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0300:1595	nom_vac	Sinopharm	lot	5961/20	type	 Covid-19	technique	IM	date_pro	3/2020	date_exp	3/2021	provider 	SinopharmGroupCoLtd	description	TwoDose
+hmset	info_vac:0301:3	nom_vac	Moderna	lot	4683/21	type	Covid-19	technique	IM	date_pro	06/2021	date_exp	06/2022	provider 	Moderna	description	TwoDose
+hmset	info_vac:0302:4	nom_vac	Pfizer-BioNTech	lot	6869/21	type	Covid-19	technique	IM	date_pro	03/2020	date_exp	03/2021	provider 	BioNTech	description	OneDose
+hmset	info_vac:0303:5	nom_vac	Pfizer-BioNTech	lot	2032/20	type	Covid-19	technique	IM	date_pro	05/2020	date_exp	05/2021	provider 	BioNTech	description	TwoDose
+hmset	info_vac:0304:6	nom_vac	HBV	lot	4390/20	type	hepatitisB	technique	IM	date_pro	01/2020	date_exp	01/2021	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0305:7	nom_vac	BCG	lot	4195/20	type	Tuberculosis	technique	ID	date_pro	04/2020	date_exp	04/2021	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0306:8	nom_vac	Moderna	lot	6156/20	type	Covid-19	technique	IM	date_pro	04/2021	date_exp	04/2022	provider 	Moderna	description	OneDose
+hmset	info_vac:0307:9	nom_vac	MMR	lot	1964/21	type	"measles,mumps,rubella"	technique	SC	date_pro	05/2021	date_exp	05/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0308:10	nom_vac	Moderna	lot	1303/20	type	Covid-19	technique	IM	date_pro	03/2020	date_exp	03/2021	provider 	Moderna	description	TwoDose
+hmset	info_vac:0309:11	nom_vac	HBV	lot	4542/20	type	hepatitisB	technique	IM	date_pro	04/2020	date_exp	04/2021	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0310:12	nom_vac	Sinopharm	lot	614/21	type	Covid-19	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	SinopharmGroupCoLtd	description	TwoDose
+hmset	info_vac:0311:13	nom_vac	MMR	lot	5970/20	type	"measles,mumps,rubella"	technique	SC	date_pro	06/2021	date_exp	06/2022	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0312:14	nom_vac	BCG	lot	3769/20	type	Tuberculosis	technique	VO	date_pro	02/2020	date_exp	02/2021	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0313:15	nom_vac	MMR	lot	4967/21	type	"measles,mumps,rubella"	technique	SC	date_pro	02/2021	date_exp	02/2022	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0314:16	nom_vac	Moderna	lot	2636/20	type	Covid-19	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	Moderna	description	TwoDose
+hmset	info_vac:0315:17	nom_vac	Pfizer-BioNTech	lot	4704/20	type	Covid-19	technique	IM	date_pro	04/2021	date_exp	04/2022	provider 	BioNTech	description	OneDose
+hmset	info_vac:0316:18	nom_vac	BCG	lot	238/20	type	Tuberculosis	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0317:19	nom_vac	HBV	lot	798/20	type	hepatitisB	technique	IM	date_pro	01/2021	date_exp	01/2022	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0318:20	nom_vac	Sinopharm	lot	4093/20	type	Covid-19	technique	IM	date_pro	05/2020	date_exp	05/2021	provider 	SinopharmGroupCoLtd	description	OneDose
+hmset	info_vac:0319:21	nom_vac	HBV	lot	4824/21	type	hepatitisB	technique	IM	date_pro	02/2020	date_exp	02/2021	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0320:22	nom_vac	HBV	lot	149/20	type	hepatitisB	technique	IM	date_pro	05/2021	date_exp	05/2022	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0321:23	nom_vac	MMR	lot	2693/21	type	"measles,mumps,rubella"	technique	SC	date_pro	06/2020	date_exp	06/2021	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0322:24	nom_vac	BCG	lot	4635/20	type	Tuberculosis	technique	VO	date_pro	06/2020	date_exp	06/2021	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0323:25	nom_vac	Johnson&Johnson	lot	5134/20	type	Covid-19	technique	IM	date_pro	06/2021	date_exp	06/2022	provider 	Johnson&Johnson	description	OneDose
+hmset	info_vac:0324:26	nom_vac	HBV	lot	5466/21	type	hepatitisB	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0325:27	nom_vac	Novavax	lot	2421/21	type	Covid-19	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	Novavax	description	TwoDose
+hmset	info_vac:0326:28	nom_vac	SpoutnikV	lot	723/20	type	Covid-19	technique	IM	date_pro	01/2021	date_exp	01/2022	provider 	Gamaleya_Research_Institute	description	OneDose
+hmset	info_vac:0327:29	nom_vac	MMR	lot	1032/20	type	"measles,mumps,rubella"	technique	SC	date_pro	03/2021	date_exp	03/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0328:30	nom_vac	BCG	lot	4705/21	type	Tuberculosis	technique	ID	date_pro	02/2021	date_exp	02/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0329:31	nom_vac	Novavax	lot	1361/20	type	Covid-19	technique	IM	date_pro	02/2021	date_exp	02/2022	provider 	Novavax	description	TwoDose
+hmset	info_vac:0330:32	nom_vac	Johnson&Johnson	lot	1663/20	type	Covid-19	technique	IM	date_pro	04/2021	date_exp	04/2022	provider 	Johnson&Johnson	description	TwoDose
+hmset	info_vac:0331:33	nom_vac	Moderna	lot	3502/20	type	Covid-19	technique	IM	date_pro	06/2020	date_exp	06/2021	provider 	Moderna	description	TwoDose
+hmset	info_vac:0332:34	nom_vac	BCG	lot	2438/20	type	Tuberculosis	technique	VO	date_pro	06/2021	date_exp	06/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0333:35	nom_vac	Pfizer-BioNTech	lot	786/20	type	Covid-19	technique	IM	date_pro	01/2021	date_exp	01/2022	provider 	BioNTech	description	TwoDose
+hmset	info_vac:0334:36	nom_vac	Sinopharm	lot	2911/21	type	Covid-19	technique	IM	date_pro	01/2020	date_exp	01/2021	provider 	SinopharmGroupCoLtd	description	OneDose
+hmset	info_vac:0335:37	nom_vac	MMR	lot	150/21	type	"measles,mumps,rubella"	technique	SC	date_pro	01/2020	date_exp	01/2021	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0336:38	nom_vac	HBV	lot	4370/20	type	hepatitisB	technique	IM	date_pro	01/2021	date_exp	01/2022	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0337:39	nom_vac	SpoutnikV	lot	133/21	type	Covid-19	technique	IM	date_pro	01/2020	date_exp	01/2021	provider 	Gamaleya_Research_Institute	description	OneDose
+hmset	info_vac:0338:40	nom_vac	MMR	lot	3149/20	type	"measles,mumps,rubella"	technique	SC	date_pro	05/2020	date_exp	05/2021	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0339:41	nom_vac	Novavax	lot	1995/20	type	Covid-19	technique	IM	date_pro	05/2020	date_exp	05/2021	provider 	Novavax	description	OneDose
+hmset	info_vac:0340:42	nom_vac	SpoutnikV	lot	3379/20	type	Covid-19	technique	IM	date_pro	02/2020	date_exp	02/2021	provider 	Gamaleya_Research_Institute	description	OneDose
+hmset	info_vac:0341:43	nom_vac	BCG	lot	3582/20	type	Tuberculosis	technique	IM	date_pro	06/2020	date_exp	06/2021	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0342:44	nom_vac	SpoutnikV	lot	4190/21	type	Covid-19	technique	IM	date_pro	04/2020	date_exp	04/2021	provider 	Gamaleya_Research_Institute	description	OneDose
+hmset	info_vac:0343:45	nom_vac	Sinopharm	lot	405/20	type	Covid-19	technique	IM	date_pro	01/2020	date_exp	01/2021	provider 	SinopharmGroupCoLtd	description	TwoDose
+hmset	info_vac:0344:46	nom_vac	Sinopharm	lot	3704/20	type	Covid-19	technique	IM	date_pro	04/2021	date_exp	04/2022	provider 	SinopharmGroupCoLtd	description	OneDose
+hmset	info_vac:0345:47	nom_vac	Pfizer-BioNTech	lot	5235/20	type	Covid-19	technique	IM	date_pro	06/2020	date_exp	06/2021	provider 	BioNTech	description	TwoDose
+hmset	info_vac:0346:48	nom_vac	Johnson&Johnson	lot	4374/20	type	Covid-19	technique	IM	date_pro	02/2021	date_exp	02/2022	provider 	Johnson&Johnson	description	TwoDose
+hmset	info_vac:0347:49	nom_vac	Johnson&Johnson	lot	6584/20	type	Covid-19	technique	IM	date_pro	02/2020	date_exp	02/2021	provider 	Johnson&Johnson	description	TwoDose
+hmset	info_vac:0348:50	nom_vac	MMR	lot	1161/20	type	"measles,mumps,rubella"	technique	SC	date_pro	06/2020	date_exp	06/2021	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0349:51	nom_vac	HBV	lot	5041/21	type	hepatitisB	technique	IM	date_pro	01/2021	date_exp	01/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0350:52	nom_vac	HBV	lot	1183/20	type	hepatitisB	technique	IM	date_pro	03/2020	date_exp	03/2021	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0351:53	nom_vac	SpoutnikV	lot	6640/21	type	Covid-19	technique	IM	date_pro	03/2020	date_exp	03/2021	provider 	Gamaleya_Research_Institute	description	TwoDose
+hmset	info_vac:0352:54	nom_vac	Sinopharm	lot	6811/20	type	Covid-19	technique	IM	date_pro	06/2021	date_exp	06/2022	provider 	SinopharmGroupCoLtd	description	TwoDose
+hmset	info_vac:0353:55	nom_vac	HBV	lot	6840/20	type	hepatitisB	technique	IM	date_pro	05/2020	date_exp	05/2021	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0354:56	nom_vac	Moderna	lot	3332/21	type	Covid-19	technique	IM	date_pro	02/2021	date_exp	02/2022	provider 	Moderna	description	OneDose
+hmset	info_vac:0355:57	nom_vac	BCG	lot	3521/21	type	Tuberculosis	technique	VO	date_pro	02/2021	date_exp	02/2022	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0356:58	nom_vac	Novavax	lot	763/21	type	Covid-19	technique	IM	date_pro	04/2020	date_exp	04/2021	provider 	Novavax	description	TwoDose
+hmset	info_vac:0357:59	nom_vac	BCG	lot	6641/21	type	Tuberculosis	technique	VO	date_pro	05/2021	date_exp	05/2022	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0358:60	nom_vac	Pfizer-BioNTech	lot	3276/21	type	Covid-19	technique	IM	date_pro	06/2021	date_exp	06/2022	provider 	BioNTech	description	OneDose
+hmset	info_vac:0359:61	nom_vac	MMR	lot	5735/20	type	"measles,mumps,rubella"	technique	SC	date_pro	06/2021	date_exp	06/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0360:62	nom_vac	SpoutnikV	lot	2087/21	type	Covid-19	technique	IM	date_pro	06/2020	date_exp	06/2021	provider 	Gamaleya_Research_Institute	description	OneDose
+hmset	info_vac:0361:63	nom_vac	Sinopharm	lot	5098/21	type	Covid-19	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	SinopharmGroupCoLtd	description	TwoDose
+hmset	info_vac:0362:64	nom_vac	BCG	lot	6576/21	type	Tuberculosis	technique	VO	date_pro	03/2020	date_exp	03/2021	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0363:65	nom_vac	Pfizer-BioNTech	lot	5549/20	type	Covid-19	technique	IM	date_pro	04/2021	date_exp	04/2022	provider 	BioNTech	description	OneDose
+hmset	info_vac:0364:66	nom_vac	Novavax	lot	433/21	type	Covid-19	technique	IM	date_pro	02/2020	date_exp	02/2021	provider 	Novavax	description	OneDose
+hmset	info_vac:0365:67	nom_vac	MMR	lot	3926/20	type	"measles,mumps,rubella"	technique	SC	date_pro	06/2021	date_exp	06/2022	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0366:68	nom_vac	BCG	lot	1223/21	type	Tuberculosis	technique	VO	date_pro	06/2020	date_exp	06/2021	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0367:69	nom_vac	HBV	lot	4174/20	type	hepatitisB	technique	IM	date_pro	04/2021	date_exp	04/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0368:70	nom_vac	Moderna	lot	153/21	type	Covid-19	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	Moderna	description	OneDose
+hmset	info_vac:0369:71	nom_vac	Johnson&Johnson	lot	6353/21	type	Covid-19	technique	IM	date_pro	05/2021	date_exp	05/2022	provider 	Johnson&Johnson	description	TwoDose
+hmset	info_vac:0370:72	nom_vac	Pfizer-BioNTech	lot	2083/21	type	Covid-19	technique	IM	date_pro	02/2021	date_exp	02/2022	provider 	BioNTech	description	OneDose
+hmset	info_vac:0371:73	nom_vac	MMR	lot	196/21	type	"measles,mumps,rubella"	technique	SC	date_pro	06/2020	date_exp	06/2021	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0372:74	nom_vac	Novavax	lot	1313/21	type	Covid-19	technique	IM	date_pro	05/2021	date_exp	05/2022	provider 	Novavax	description	TwoDose
+hmset	info_vac:0373:75	nom_vac	Novavax	lot	1954/21	type	Covid-19	technique	IM	date_pro	05/2021	date_exp	05/2022	provider 	Novavax	description	OneDose
+hmset	info_vac:0374:76	nom_vac	Pfizer-BioNTech	lot	2492/20	type	Covid-19	technique	IM	date_pro	04/2020	date_exp	04/2021	provider 	BioNTech	description	TwoDose
+hmset	info_vac:0375:77	nom_vac	SpoutnikV	lot	229/21	type	Covid-19	technique	IM	date_pro	04/2021	date_exp	04/2022	provider 	Gamaleya_Research_Institute	description	TwoDose
+hmset	info_vac:0376:78	nom_vac	Moderna	lot	2564/20	type	Covid-19	technique	IM	date_pro	06/2020	date_exp	06/2021	provider 	Moderna	description	OneDose
+hmset	info_vac:0377:79	nom_vac	Pfizer-BioNTech	lot	360/21	type	Covid-19	technique	IM	date_pro	01/2020	date_exp	01/2021	provider 	BioNTech	description	TwoDose
+hmset	info_vac:0378:80	nom_vac	MMR	lot	3178/20	type	"measles,mumps,rubella"	technique	SC	date_pro	03/2021	date_exp	03/2022	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0379:81	nom_vac	Novavax	lot	1063/21	type	Covid-19	technique	IM	date_pro	03/2020	date_exp	03/2021	provider 	Novavax	description	OneDose
+hmset	info_vac:0380:82	nom_vac	Moderna	lot	693/20	type	Covid-19	technique	IM	date_pro	02/2020	date_exp	02/2021	provider 	Moderna	description	TwoDose
+hmset	info_vac:0381:83	nom_vac	Novavax	lot	808/20	type	Covid-19	technique	IM	date_pro	01/2020	date_exp	01/2021	provider 	Novavax	description	OneDose
+hmset	info_vac:0382:84	nom_vac	Novavax	lot	4766/20	type	Covid-19	technique	IM	date_pro	05/2020	date_exp	05/2021	provider 	Novavax	description	TwoDose
+hmset	info_vac:0383:85	nom_vac	Moderna	lot	2183/20	type	Covid-19	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	Moderna	description	OneDose
+hmset	info_vac:0384:86	nom_vac	SpoutnikV	lot	3153/21	type	Covid-19	technique	IM	date_pro	05/2021	date_exp	05/2022	provider 	Gamaleya_Research_Institute	description	OneDose
+hmset	info_vac:0385:87	nom_vac	SpoutnikV	lot	4944/20	type	Covid-19	technique	IM	date_pro	04/2021	date_exp	04/2022	provider 	Gamaleya_Research_Institute	description	TwoDose
+hmset	info_vac:0386:88	nom_vac	Moderna	lot	3125/20	type	Covid-19	technique	IM	date_pro	06/2021	date_exp	06/2022	provider 	Moderna	description	TwoDose
+hmset	info_vac:0387:89	nom_vac	HBV	lot	1669/21	type	hepatitisB	technique	IM	date_pro	02/2021	date_exp	02/2022	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0388:90	nom_vac	SpoutnikV	lot	6612/20	type	Covid-19	technique	IM	date_pro	05/2021	date_exp	05/2022	provider 	Gamaleya_Research_Institute	description	TwoDose
+hmset	info_vac:0389:91	nom_vac	HBV	lot	4223/21	type	hepatitisB	technique	IM	date_pro	02/2020	date_exp	02/2021	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0390:92	nom_vac	Pfizer-BioNTech	lot	3785/21	type	Covid-19	technique	IM	date_pro	01/2020	date_exp	01/2021	provider 	BioNTech	description	TwoDose
+hmset	info_vac:0391:93	nom_vac	HBV	lot	5882/21	type	hepatitisB	technique	IM	date_pro	04/2021	date_exp	04/2022	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0392:94	nom_vac	BCG	lot	5356/20	type	Tuberculosis	technique	VO	date_pro	02/2020	date_exp	02/2021	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0393:95	nom_vac	SpoutnikV	lot	632/21	type	Covid-19	technique	IM	date_pro	02/2020	date_exp	02/2021	provider 	Gamaleya_Research_Institute	description	TwoDose
+hmset	info_vac:0394:96	nom_vac	MMR	lot	1602/21	type	"measles,mumps,rubella"	technique	SC	date_pro	05/2021	date_exp	05/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0395:97	nom_vac	Johnson&Johnson	lot	4821/21	type	Covid-19	technique	IM	date_pro	05/2020	date_exp	05/2021	provider 	Johnson&Johnson	description	OneDose
+hmset	info_vac:0396:98	nom_vac	Moderna	lot	6591/20	type	Covid-19	technique	IM	date_pro	06/2021	date_exp	06/2022	provider 	Moderna	description	TwoDose
+hmset	info_vac:0397:99	nom_vac	MMR	lot	3886/21	type	"measles,mumps,rubella"	technique	SC	date_pro	04/2021	date_exp	04/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0398:100	nom_vac	Moderna	lot	1868/21	type	Covid-19	technique	IM	date_pro	05/2021	date_exp	05/2022	provider 	Moderna	description	OneDose
+hmset	info_vac:0399:101	nom_vac	Novavax	lot	5667/20	type	Covid-19	technique	IM	date_pro	01/2021	date_exp	01/2022	provider 	Novavax	description	TwoDose
+hmset	info_vac:0400:102	nom_vac	SpoutnikV	lot	260/20	type	Covid-19	technique	IM	date_pro	04/2020	date_exp	04/2021	provider 	Gamaleya_Research_Institute	description	OneDose
+hmset	info_vac:0401:103	nom_vac	SpoutnikV	lot	5922/21	type	Covid-19	technique	IM	date_pro	06/2021	date_exp	06/2022	provider 	Gamaleya_Research_Institute	description	TwoDose
+hmset	info_vac:0402:104	nom_vac	BCG	lot	287/20	type	Tuberculosis	technique	IM	date_pro	01/2021	date_exp	01/2022	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0403:105	nom_vac	Johnson&Johnson	lot	27/20	type	Covid-19	technique	IM	date_pro	03/2020	date_exp	03/2021	provider 	Johnson&Johnson	description	TwoDose
+hmset	info_vac:0404:106	nom_vac	MMR	lot	994/20	type	"measles,mumps,rubella"	technique	SC	date_pro	04/2020	date_exp	04/2021	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0405:107	nom_vac	Sinopharm	lot	3273/20	type	Covid-19	technique	IM	date_pro	04/2021	date_exp	04/2022	provider 	SinopharmGroupCoLtd	description	TwoDose
+hmset	info_vac:0406:108	nom_vac	BCG	lot	6870/20	type	Tuberculosis	technique	IM	date_pro	05/2021	date_exp	05/2022	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0407:109	nom_vac	SpoutnikV	lot	6821/20	type	Covid-19	technique	IM	date_pro	06/2020	date_exp	06/2021	provider 	Gamaleya_Research_Institute	description	OneDose
+hmset	info_vac:0408:110	nom_vac	Novavax	lot	4909/20	type	Covid-19	technique	IM	date_pro	02/2021	date_exp	02/2022	provider 	Novavax	description	TwoDose
+hmset	info_vac:0409:111	nom_vac	Moderna	lot	5998/20	type	Covid-19	technique	IM	date_pro	01/2021	date_exp	01/2022	provider 	Moderna	description	OneDose
+hmset	info_vac:0410:112	nom_vac	Novavax	lot	112/21	type	Covid-19	technique	IM	date_pro	03/2020	date_exp	03/2021	provider 	Novavax	description	TwoDose
+hmset	info_vac:0411:113	nom_vac	Johnson&Johnson	lot	4543/21	type	Covid-19	technique	IM	date_pro	06/2020	date_exp	06/2021	provider 	Johnson&Johnson	description	OneDose
+hmset	info_vac:0412:114	nom_vac	HBV	lot	5061/21	type	hepatitisB	technique	IM	date_pro	06/2021	date_exp	06/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0413:115	nom_vac	Pfizer-BioNTech	lot	817/21	type	Covid-19	technique	IM	date_pro	04/2020	date_exp	04/2021	provider 	BioNTech	description	TwoDose
+hmset	info_vac:0414:116	nom_vac	MMR	lot	5164/21	type	"measles,mumps,rubella"	technique	SC	date_pro	04/2021	date_exp	04/2022	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0415:117	nom_vac	Johnson&Johnson	lot	4554/20	type	Covid-19	technique	IM	date_pro	05/2020	date_exp	05/2021	provider 	Johnson&Johnson	description	TwoDose
+hmset	info_vac:0416:118	nom_vac	Moderna	lot	4585/21	type	Covid-19	technique	IM	date_pro	04/2021	date_exp	04/2022	provider 	Moderna	description	TwoDose
+hmset	info_vac:0417:119	nom_vac	Moderna	lot	4393/20	type	Covid-19	technique	IM	date_pro	05/2020	date_exp	05/2021	provider 	Moderna	description	OneDose
+hmset	info_vac:0418:120	nom_vac	Johnson&Johnson	lot	1219/21	type	Covid-19	technique	IM	date_pro	06/2021	date_exp	06/2022	provider 	Johnson&Johnson	description	OneDose
+hmset	info_vac:0419:121	nom_vac	BCG	lot	3355/20	type	Tuberculosis	technique	ID	date_pro	04/2020	date_exp	04/2021	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0420:122	nom_vac	BCG	lot	1537/20	type	Tuberculosis	technique	VO	date_pro	03/2021	date_exp	03/2022	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0421:123	nom_vac	Pfizer-BioNTech	lot	2115/20	type	Covid-19	technique	IM	date_pro	02/2020	date_exp	02/2021	provider 	BioNTech	description	TwoDose
+hmset	info_vac:0422:124	nom_vac	Pfizer-BioNTech	lot	6078/21	type	Covid-19	technique	IM	date_pro	01/2021	date_exp	01/2022	provider 	BioNTech	description	TwoDose
+hmset	info_vac:0423:125	nom_vac	Sinopharm	lot	1548/21	type	Covid-19	technique	IM	date_pro	04/2021	date_exp	04/2022	provider 	SinopharmGroupCoLtd	description	TwoDose
+hmset	info_vac:0424:126	nom_vac	Johnson&Johnson	lot	2003/21	type	Covid-19	technique	IM	date_pro	04/2021	date_exp	04/2022	provider 	Johnson&Johnson	description	TwoDose
+hmset	info_vac:0425:127	nom_vac	MMR	lot	4870/21	type	"measles,mumps,rubella"	technique	SC	date_pro	01/2020	date_exp	01/2021	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0426:128	nom_vac	MMR	lot	5973/21	type	"measles,mumps,rubella"	technique	SC	date_pro	04/2020	date_exp	04/2021	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0427:129	nom_vac	MMR	lot	3186/21	type	"measles,mumps,rubella"	technique	SC	date_pro	06/2021	date_exp	06/2022	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0428:130	nom_vac	MMR	lot	5769/21	type	"measles,mumps,rubella"	technique	SC	date_pro	03/2021	date_exp	03/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0429:131	nom_vac	SpoutnikV	lot	5166/20	type	Covid-19	technique	IM	date_pro	01/2021	date_exp	01/2022	provider 	Gamaleya_Research_Institute	description	OneDose
+hmset	info_vac:0430:132	nom_vac	Pfizer-BioNTech	lot	97/20	type	Covid-19	technique	IM	date_pro	01/2020	date_exp	01/2021	provider 	BioNTech	description	TwoDose
+hmset	info_vac:0431:133	nom_vac	Pfizer-BioNTech	lot	4933/21	type	Covid-19	technique	IM	date_pro	05/2021	date_exp	05/2022	provider 	BioNTech	description	OneDose
+hmset	info_vac:0432:134	nom_vac	Johnson&Johnson	lot	6227/21	type	Covid-19	technique	IM	date_pro	03/2020	date_exp	03/2021	provider 	Johnson&Johnson	description	TwoDose
+hmset	info_vac:0433:135	nom_vac	Sinopharm	lot	6267/20	type	Covid-19	technique	IM	date_pro	01/2020	date_exp	01/2021	provider 	SinopharmGroupCoLtd	description	TwoDose
+hmset	info_vac:0434:136	nom_vac	BCG	lot	5476/20	type	Tuberculosis	technique	IM	date_pro	05/2020	date_exp	05/2021	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0435:137	nom_vac	Novavax	lot	1260/21	type	Covid-19	technique	IM	date_pro	03/2020	date_exp	03/2021	provider 	Novavax	description	TwoDose
+hmset	info_vac:0436:138	nom_vac	SpoutnikV	lot	3622/20	type	Covid-19	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	Gamaleya_Research_Institute	description	TwoDose
+hmset	info_vac:0437:139	nom_vac	Johnson&Johnson	lot	5664/21	type	Covid-19	technique	IM	date_pro	03/2020	date_exp	03/2021	provider 	Johnson&Johnson	description	OneDose
+hmset	info_vac:0438:140	nom_vac	Novavax	lot	1568/20	type	Covid-19	technique	IM	date_pro	03/2020	date_exp	03/2021	provider 	Novavax	description	OneDose
+hmset	info_vac:0439:141	nom_vac	Johnson&Johnson	lot	4612/21	type	Covid-19	technique	IM	date_pro	06/2021	date_exp	06/2022	provider 	Johnson&Johnson	description	TwoDose
+hmset	info_vac:0440:142	nom_vac	Moderna	lot	2177/20	type	Covid-19	technique	IM	date_pro	01/2021	date_exp	01/2022	provider 	Moderna	description	TwoDose
+hmset	info_vac:0441:143	nom_vac	SpoutnikV	lot	3927/20	type	Covid-19	technique	IM	date_pro	04/2020	date_exp	04/2021	provider 	Gamaleya_Research_Institute	description	OneDose
+hmset	info_vac:0442:144	nom_vac	Sinopharm	lot	6225/20	type	Covid-19	technique	IM	date_pro	06/2021	date_exp	06/2022	provider 	SinopharmGroupCoLtd	description	TwoDose
+hmset	info_vac:0443:145	nom_vac	Novavax	lot	2424/20	type	Covid-19	technique	IM	date_pro	05/2021	date_exp	05/2022	provider 	Novavax	description	TwoDose
+hmset	info_vac:0444:146	nom_vac	Moderna	lot	347/21	type	Covid-19	technique	IM	date_pro	04/2021	date_exp	04/2022	provider 	Moderna	description	OneDose
+hmset	info_vac:0445:147	nom_vac	BCG	lot	3412/21	type	Tuberculosis	technique	VO	date_pro	02/2020	date_exp	02/2021	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0446:148	nom_vac	Novavax	lot	326/21	type	Covid-19	technique	IM	date_pro	04/2021	date_exp	04/2022	provider 	Novavax	description	TwoDose
+hmset	info_vac:0447:149	nom_vac	Sinopharm	lot	3199/21	type	Covid-19	technique	IM	date_pro	04/2021	date_exp	04/2022	provider 	SinopharmGroupCoLtd	description	TwoDose
+hmset	info_vac:0448:150	nom_vac	Moderna	lot	5491/21	type	Covid-19	technique	IM	date_pro	02/2020	date_exp	02/2021	provider 	Moderna	description	OneDose
+hmset	info_vac:0449:151	nom_vac	HBV	lot	6749/20	type	hepatitisB	technique	IM	date_pro	02/2020	date_exp	02/2021	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0450:152	nom_vac	BCG	lot	411/21	type	Tuberculosis	technique	ID	date_pro	04/2021	date_exp	04/2022	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0451:153	nom_vac	Sinopharm	lot	1155/20	type	Covid-19	technique	IM	date_pro	05/2021	date_exp	05/2022	provider 	SinopharmGroupCoLtd	description	OneDose
+hmset	info_vac:0452:154	nom_vac	Sinopharm	lot	1717/20	type	Covid-19	technique	IM	date_pro	05/2021	date_exp	05/2022	provider 	SinopharmGroupCoLtd	description	TwoDose
+hmset	info_vac:0453:155	nom_vac	MMR	lot	5689/21	type	"measles,mumps,rubella"	technique	SC	date_pro	01/2021	date_exp	01/2022	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0454:156	nom_vac	BCG	lot	4828/21	type	Tuberculosis	technique	IM	date_pro	06/2021	date_exp	06/2022	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0455:157	nom_vac	SpoutnikV	lot	3111/20	type	Covid-19	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	Gamaleya_Research_Institute	description	OneDose
+hmset	info_vac:0456:158	nom_vac	Pfizer-BioNTech	lot	6369/20	type	Covid-19	technique	IM	date_pro	01/2020	date_exp	01/2021	provider 	BioNTech	description	OneDose
+hmset	info_vac:0457:159	nom_vac	SpoutnikV	lot	3565/20	type	Covid-19	technique	IM	date_pro	01/2021	date_exp	01/2022	provider 	Gamaleya_Research_Institute	description	TwoDose
+hmset	info_vac:0458:160	nom_vac	HBV	lot	2096/21	type	hepatitisB	technique	IM	date_pro	02/2020	date_exp	02/2021	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0459:161	nom_vac	BCG	lot	702/21	type	Tuberculosis	technique	VO	date_pro	03/2020	date_exp	03/2021	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0460:162	nom_vac	Johnson&Johnson	lot	4535/20	type	Covid-19	technique	IM	date_pro	02/2020	date_exp	02/2021	provider 	Johnson&Johnson	description	OneDose
+hmset	info_vac:0461:163	nom_vac	BCG	lot	2352/21	type	Tuberculosis	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0462:164	nom_vac	MMR	lot	5987/20	type	"measles,mumps,rubella"	technique	SC	date_pro	03/2021	date_exp	03/2022	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0463:165	nom_vac	Johnson&Johnson	lot	6213/20	type	Covid-19	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	Johnson&Johnson	description	TwoDose
+hmset	info_vac:0464:166	nom_vac	Sinopharm	lot	2949/21	type	Covid-19	technique	IM	date_pro	01/2021	date_exp	01/2022	provider 	SinopharmGroupCoLtd	description	OneDose
+hmset	info_vac:0465:167	nom_vac	HBV	lot	2727/20	type	hepatitisB	technique	IM	date_pro	04/2020	date_exp	04/2021	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0466:168	nom_vac	SpoutnikV	lot	1397/21	type	Covid-19	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	Gamaleya_Research_Institute	description	TwoDose
+hmset	info_vac:0467:169	nom_vac	BCG	lot	5830/20	type	Tuberculosis	technique	ID	date_pro	03/2021	date_exp	03/2022	provider 	saidalGroup	description	OneDose
+hmset	info_vac:0468:170	nom_vac	MMR	lot	3322/20	type	"measles,mumps,rubella"	technique	SC	date_pro	04/2021	date_exp	04/2022	provider 	saidalGroup	description	TwoDose
+hmset	info_vac:0469:171	nom_vac	Sinopharm	lot	4112/21	type	Covid-19	technique	IM	date_pro	02/2020	date_exp	02/2021	provider 	SinopharmGroupCoLtd	description	TwoDose
+hmset	info_vac:0470:172	nom_vac	Johnson&Johnson	lot	194/21	type	Covid-19	technique	IM	date_pro	02/2020	date_exp	02/2021	provider 	Johnson&Johnson	description	TwoDose
+hmset	info_vac:0471:173	nom_vac	Moderna	lot	2928/21	type	Covid-19	technique	IM	date_pro	04/2020	date_exp	04/2021	provider 	Moderna		TwoDose
+hmset	info_vac:0472:174	nom_vac	Moderna	lot	6652/21	type	Covid-19	technique	IM	date_pro	03/2020	date_exp	03/2021	provider 	Moderna		TwoDose
+hmset	info_vac:0473:175	nom_vac	Johnson&Johnson	lot	5997/21	type	Covid-19	technique	IM	date_pro	01/2020	date_exp	01/2021	provider 	Johnson&Johnson		OneDose
+hmset	info_vac:0474:176	nom_vac	BCG	lot	1667/20	type	Tuberculosis	technique	VO	date_pro	01/2021	date_exp	01/2022	provider 	saidalGroup		TwoDose
+hmset	info_vac:0475:177	nom_vac	BCG	lot	13/21	type	Tuberculosis	technique	IM	date_pro	02/2020	date_exp	02/2021	provider 	saidalGroup		TwoDose
+hmset	info_vac:0476:178	nom_vac	MMR	lot	5237/20	type	"measles,mumps,rubella"	technique	SC	date_pro	03/2021	date_exp	03/2022	provider 	saidalGroup		OneDose
+hmset	info_vac:0477:179	nom_vac	Novavax	lot	2136/21	type	Covid-19	technique	IM	date_pro	04/2021	date_exp	04/2022	provider 	Novavax		TwoDose
+hmset	info_vac:0478:180	nom_vac	Pfizer-BioNTech	lot	2488/21	type	Covid-19	technique	IM	date_pro	05/2020	date_exp	05/2021	provider 	BioNTech		TwoDose
+hmset	info_vac:0479:181	nom_vac	SpoutnikV	lot	796/21	type	Covid-19	technique	IM	date_pro	05/2020	date_exp	05/2021	provider 	Gamaleya_Research_Institute		TwoDose
+hmset	info_vac:0480:182	nom_vac	Moderna	lot	3459/21	type	Covid-19	technique	IM	date_pro	02/2020	date_exp	02/2021	provider 	Moderna		TwoDose
+hmset	info_vac:0481:183	nom_vac	Novavax	lot	3817/20	type	Covid-19	technique	IM	date_pro	04/2021	date_exp	04/2022	provider 	Novavax		OneDose
+hmset	info_vac:0482:184	nom_vac	SpoutnikV	lot	5503/20	type	Covid-19	technique	IM	date_pro	04/2021	date_exp	04/2022	provider 	Gamaleya_Research_Institute		OneDose
+hmset	info_vac:0483:185	nom_vac	Novavax	lot	2035/20	type	Covid-19	technique	IM	date_pro	02/2020	date_exp	02/2021	provider 	Novavax		TwoDose
+hmset	info_vac:0484:186	nom_vac	Novavax	lot	2191/21	type	Covid-19	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	Novavax		OneDose
+hmset	info_vac:0485:187	nom_vac	Novavax	lot	1271/20	type	Covid-19	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	Novavax		OneDose
+hmset	info_vac:0486:188	nom_vac	Novavax	lot	5955/20	type	Covid-19	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	Novavax		TwoDose
+hmset	info_vac:0487:189	nom_vac	MMR	lot	6636/21	type	"measles,mumps,rubella"	technique	SC	date_pro	04/2021	date_exp	04/2022	provider 	saidalGroup		OneDose
+hmset	info_vac:0488:190	nom_vac	Pfizer-BioNTech	lot	4379/21	type	Covid-19	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	BioNTech		TwoDose
+hmset	info_vac:0489:191	nom_vac	Moderna	lot	139/21	type	Covid-19	technique	IM	date_pro	04/2021	date_exp	04/2022	provider 	Moderna		TwoDose
+hmset	info_vac:0490:192	nom_vac	SpoutnikV	lot	405/21	type	Covid-19	technique	IM	date_pro	05/2020	date_exp	05/2021	provider 	Gamaleya_Research_Institute		TwoDose
+hmset	info_vac:0491:193	nom_vac	Pfizer-BioNTech	lot	3385/20	type	Covid-19	technique	IM	date_pro	01/2020	date_exp	01/2021	provider 	BioNTech		TwoDose
+hmset	info_vac:0492:194	nom_vac	BCG	lot	6556/20	type	Tuberculosis	technique	ID	date_pro	03/2021	date_exp	03/2022	provider 	saidalGroup		OneDose
+hmset	info_vac:0493:195	nom_vac	MMR	lot	5480/21	type	"measles,mumps,rubella"	technique	SC	date_pro	04/2020	date_exp	04/2021	provider 	saidalGroup		OneDose
+hmset	info_vac:0494:196	nom_vac	Sinopharm	lot	4400/20	type	Covid-19	technique	IM	date_pro	01/2020	date_exp	01/2021	provider 	SinopharmGroupCoLtd		TwoDose
+hmset	info_vac:0495:197	nom_vac	Novavax	lot	5135/21	type	Covid-19	technique	IM	date_pro	06/2020	date_exp	06/2021	provider 	Novavax		OneDose
+hmset	info_vac:0496:198	nom_vac	Pfizer-BioNTech	lot	517/20	type	Covid-19	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	BioNTech		TwoDose
+hmset	info_vac:0497:199	nom_vac	Sinopharm	lot	1509/20	type	Covid-19	technique	IM	date_pro	06/2020	date_exp	06/2021	provider 	SinopharmGroupCoLtd		TwoDose
+hmset	info_vac:0498:200	nom_vac	Sinopharm	lot	6590/20	type	Covid-19	technique	IM	date_pro	06/2020	date_exp	06/2021	provider 	SinopharmGroupCoLtd		OneDose
+hmset	info_vac:0499:201	nom_vac	Johnson&Johnson	lot	6623/20	type	Covid-19	technique	IM	date_pro	01/2021	date_exp	01/2022	provider 	Johnson&Johnson		OneDose
+hmset	info_vac:0500:202	nom_vac	Johnson&Johnson	lot	4161/21	type	Covid-19	technique	IM	date_pro	01/2021	date_exp	01/2022	provider 	Johnson&Johnson		OneDose
+hmset	info_vac:0501:203	nom_vac	SpoutnikV	lot	1058/21	type	Covid-19	technique	IM	date_pro	02/2021	date_exp	02/2022	provider 	Gamaleya_Research_Institute		TwoDose
+hmset	info_vac:0502:204	nom_vac	Sinopharm	lot	2502/21	type	Covid-19	technique	IM	date_pro	04/2021	date_exp	04/2022	provider 	SinopharmGroupCoLtd		TwoDose
+hmset	info_vac:0503:205	nom_vac	Johnson&Johnson	lot	3452/20	type	Covid-19	technique	IM	date_pro	03/2020	date_exp	03/2021	provider 	Johnson&Johnson		TwoDose
+hmset	info_vac:0504:206	nom_vac	MMR	lot	3196/21	type	"measles,mumps,rubella"	technique	SC	date_pro	03/2021	date_exp	03/2022	provider 	saidalGroup		TwoDose
+hmset	info_vac:0505:207	nom_vac	Moderna	lot	2892/21	type	Covid-19	technique	IM	date_pro	02/2020	date_exp	02/2021	provider 	Moderna		TwoDose
+hmset	info_vac:0506:208	nom_vac	Pfizer-BioNTech	lot	6538/21	type	Covid-19	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	BioNTech		OneDose
+hmset	info_vac:0507:209	nom_vac	MMR	lot	574/21	type	"measles,mumps,rubella"	technique	SC	date_pro	03/2020	date_exp	03/2021	provider 	saidalGroup		OneDose
+hmset	info_vac:0508:210	nom_vac	Pfizer-BioNTech	lot	132/21	type	Covid-19	technique	IM	date_pro	06/2020	date_exp	06/2021	provider 	BioNTech		OneDose
+hmset	info_vac:0509:211	nom_vac	Sinopharm	lot	3155/21	type	Covid-19	technique	IM	date_pro	04/2021	date_exp	04/2022	provider 	SinopharmGroupCoLtd		TwoDose
+hmset	info_vac:0510:212	nom_vac	Novavax	lot	4964/21	type	Covid-19	technique	IM	date_pro	01/2020	date_exp	01/2021	provider 	Novavax		TwoDose
+hmset	info_vac:0511:213	nom_vac	BCG	lot	6006/21	type	Tuberculosis	technique	VO	date_pro	06/2021	date_exp	06/2022	provider 	saidalGroup		OneDose
+hmset	info_vac:0512:214	nom_vac	Novavax	lot	6249/20	type	Covid-19	technique	IM	date_pro	04/2020	date_exp	04/2021	provider 	Novavax		TwoDose
+hmset	info_vac:0513:215	nom_vac	Pfizer-BioNTech	lot	5697/21	type	Covid-19	technique	IM	date_pro	02/2020	date_exp	02/2021	provider 	BioNTech		OneDose
+hmset	info_vac:0514:216	nom_vac	Novavax	lot	1006/21	type	Covid-19	technique	IM	date_pro	04/2020	date_exp	04/2021	provider 	Novavax		OneDose
+hmset	info_vac:0515:217	nom_vac	Novavax	lot	6466/21	type	Covid-19	technique	IM	date_pro	05/2021	date_exp	05/2022	provider 	Novavax		OneDose
+hmset	info_vac:0516:218	nom_vac	HBV	lot	5603/20	type	hepatitisB	technique	IM	date_pro	05/2020	date_exp	05/2021	provider 	saidalGroup		TwoDose
+hmset	info_vac:0517:219	nom_vac	HBV	lot	6465/21	type	hepatitisB	technique	IM	date_pro	02/2020	date_exp	02/2021	provider 	saidalGroup		TwoDose
+hmset	info_vac:0518:220	nom_vac	Johnson&Johnson	lot	3597/21	type	Covid-19	technique	IM	date_pro	06/2020	date_exp	06/2021	provider 	Johnson&Johnson		OneDose
+hmset	info_vac:0519:221	nom_vac	Sinopharm	lot	6883/21	type	Covid-19	technique	IM	date_pro	05/2020	date_exp	05/2021	provider 	SinopharmGroupCoLtd		OneDose
+hmset	info_vac:0520:222	nom_vac	Novavax	lot	556/21	type	Covid-19	technique	IM	date_pro	06/2021	date_exp	06/2022	provider 	Novavax		OneDose
+hmset	info_vac:0521:223	nom_vac	Moderna	lot	3727/20	type	Covid-19	technique	IM	date_pro	05/2021	date_exp	05/2022	provider 	Moderna		OneDose
+hmset	info_vac:0522:224	nom_vac	Pfizer-BioNTech	lot	2431/21	type	Covid-19	technique	IM	date_pro	05/2021	date_exp	05/2022	provider 	BioNTech		TwoDose
+hmset	info_vac:0523:225	nom_vac	BCG	lot	6191/21	type	Tuberculosis	technique	IM	date_pro	04/2021	date_exp	04/2022	provider 	saidalGroup		OneDose
+hmset	info_vac:0524:226	nom_vac	Moderna	lot	3696/20	type	Covid-19	technique	IM	date_pro	02/2020	date_exp	02/2021	provider 	Moderna		OneDose
+hmset	info_vac:0525:227	nom_vac	Sinopharm	lot	110/20	type	Covid-19	technique	IM	date_pro	06/2021	date_exp	06/2022	provider 	SinopharmGroupCoLtd		TwoDose
+hmset	info_vac:0526:228	nom_vac	HBV	lot	6053/21	type	hepatitisB	technique	IM	date_pro	06/2020	date_exp	06/2021	provider 	saidalGroup		OneDose
+hmset	info_vac:0527:229	nom_vac	SpoutnikV	lot	1343/20	type	Covid-19	technique	IM	date_pro	05/2020	date_exp	05/2021	provider 	Gamaleya_Research_Institute		OneDose
+hmset	info_vac:0528:230	nom_vac	HBV	lot	4863/21	type	hepatitisB	technique	IM	date_pro	06/2020	date_exp	06/2021	provider 	saidalGroup		OneDose
+hmset	info_vac:0529:231	nom_vac	MMR	lot	5120/20	type	"measles,mumps,rubella"	technique	SC	date_pro	04/2020	date_exp	04/2021	provider 	saidalGroup		OneDose
+hmset	info_vac:0530:232	nom_vac	BCG	lot	5364/21	type	Tuberculosis	technique	IM	date_pro	01/2020	date_exp	01/2021	provider 	saidalGroup		OneDose
+hmset	info_vac:0531:233	nom_vac	Novavax	lot	2300/21	type	Covid-19	technique	IM	date_pro	04/2020	date_exp	04/2021	provider 	Novavax		TwoDose
+hmset	info_vac:0532:234	nom_vac	HBV	lot	6284/20	type	hepatitisB	technique	IM	date_pro	06/2021	date_exp	06/2022	provider 	saidalGroup		OneDose
+hmset	info_vac:0533:235	nom_vac	BCG	lot	3526/21	type	Tuberculosis	technique	VO	date_pro	03/2021	date_exp	03/2022	provider 	saidalGroup		OneDose
+hmset	info_vac:0534:236	nom_vac	BCG	lot	6129/21	type	Tuberculosis	technique	ID	date_pro	06/2021	date_exp	06/2022	provider 	saidalGroup		TwoDose
+hmset	info_vac:0535:237	nom_vac	Sinopharm	lot	6375/20	type	Covid-19	technique	IM	date_pro	02/2020	date_exp	02/2021	provider 	SinopharmGroupCoLtd		TwoDose
+hmset	info_vac:0536:238	nom_vac	Novavax	lot	3793/21	type	Covid-19	technique	IM	date_pro	01/2020	date_exp	01/2021	provider 	Novavax		TwoDose
+hmset	info_vac:0537:239	nom_vac	Pfizer-BioNTech	lot	2350/21	type	Covid-19	technique	IM	date_pro	01/2020	date_exp	01/2021	provider 	BioNTech		TwoDose
+hmset	info_vac:0538:240	nom_vac	Pfizer-BioNTech	lot	425/21	type	Covid-19	technique	IM	date_pro	01/2021	date_exp	01/2022	provider 	BioNTech		TwoDose
+hmset	info_vac:0539:241	nom_vac	MMR	lot	6839/20	type	"measles,mumps,rubella"	technique	SC	date_pro	04/2020	date_exp	04/2021	provider 	saidalGroup		TwoDose
+hmset	info_vac:0540:242	nom_vac	MMR	lot	1732/20	type	"measles,mumps,rubella"	technique	SC	date_pro	06/2021	date_exp	06/2022	provider 	saidalGroup		OneDose
+hmset	info_vac:0541:243	nom_vac	Pfizer-BioNTech	lot	2068/21	type	Covid-19	technique	IM	date_pro	04/2021	date_exp	04/2022	provider 	BioNTech		OneDose
+hmset	info_vac:0542:244	nom_vac	HBV	lot	513/21	type	hepatitisB	technique	IM	date_pro	02/2021	date_exp	02/2022	provider 	saidalGroup		TwoDose
+hmset	info_vac:0543:245	nom_vac	Sinopharm	lot	6169/20	type	Covid-19	technique	IM	date_pro	06/2020	date_exp	06/2021	provider 	SinopharmGroupCoLtd		OneDose
+hmset	info_vac:0544:246	nom_vac	Pfizer-BioNTech	lot	3338/20	type	Covid-19	technique	IM	date_pro	01/2021	date_exp	01/2022	provider 	BioNTech		OneDose
+hmset	info_vac:0545:247	nom_vac	Moderna	lot	2015/20	type	Covid-19	technique	IM	date_pro	06/2020	date_exp	06/2021	provider 	Moderna		OneDose
+hmset	info_vac:0546:248	nom_vac	Pfizer-BioNTech	lot	5386/21	type	Covid-19	technique	IM	date_pro	04/2020	date_exp	04/2021	provider 	BioNTech		TwoDose
+hmset	info_vac:0547:249	nom_vac	Pfizer-BioNTech	lot	1242/21	type	Covid-19	technique	IM	date_pro	06/2021	date_exp	06/2022	provider 	BioNTech		TwoDose
+hmset	info_vac:0548:250	nom_vac	Novavax	lot	1997/21	type	Covid-19	technique	IM	date_pro	05/2020	date_exp	05/2021	provider 	Novavax		TwoDose
+hmset	info_vac:0549:251	nom_vac	Sinopharm	lot	6406/21	type	Covid-19	technique	IM	date_pro	02/2020	date_exp	02/2021	provider 	SinopharmGroupCoLtd		OneDose
+hmset	info_vac:0550:252	nom_vac	BCG	lot	3018/20	type	Tuberculosis	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	saidalGroup		OneDose
+hmset	info_vac:0551:253	nom_vac	SpoutnikV	lot	3218/20	type	Covid-19	technique	IM	date_pro	01/2020	date_exp	01/2021	provider 	Gamaleya_Research_Institute		OneDose
+hmset	info_vac:0552:254	nom_vac	MMR	lot	3688/21	type	"measles,mumps,rubella"	technique	SC	date_pro	06/2021	date_exp	06/2022	provider 	saidalGroup		OneDose
+hmset	info_vac:0553:255	nom_vac	HBV	lot	4881/20	type	hepatitisB	technique	IM	date_pro	01/2020	date_exp	01/2021	provider 	saidalGroup		TwoDose
+hmset	info_vac:0554:256	nom_vac	Moderna	lot	2256/21	type	Covid-19	technique	IM	date_pro	01/2020	date_exp	01/2021	provider 	Moderna		TwoDose
+hmset	info_vac:0555:257	nom_vac	Sinopharm	lot	118/20	type	Covid-19	technique	IM	date_pro	06/2021	date_exp	06/2022	provider 	SinopharmGroupCoLtd		TwoDose
+hmset	info_vac:0556:258	nom_vac	Pfizer-BioNTech	lot	3482/20	type	Covid-19	technique	IM	date_pro	06/2021	date_exp	06/2022	provider 	BioNTech		TwoDose
+hmset	info_vac:0557:259	nom_vac	Novavax	lot	4226/21	type	Covid-19	technique	IM	date_pro	05/2020	date_exp	05/2021	provider 	Novavax		TwoDose
+hmset	info_vac:0558:260	nom_vac	Novavax	lot	5149/21	type	Covid-19	technique	IM	date_pro	04/2020	date_exp	04/2021	provider 	Novavax		TwoDose
+hmset	info_vac:0559:261	nom_vac	Johnson&Johnson	lot	5916/20	type	Covid-19	technique	IM	date_pro	01/2021	date_exp	01/2022	provider 	Johnson&Johnson		OneDose
+hmset	info_vac:0560:262	nom_vac	SpoutnikV	lot	5225/20	type	Covid-19	technique	IM	date_pro	01/2020	date_exp	01/2021	provider 	Gamaleya_Research_Institute		OneDose
+hmset	info_vac:0561:263	nom_vac	Novavax	lot	5753/20	type	Covid-19	technique	IM	date_pro	02/2020	date_exp	02/2021	provider 	Novavax		TwoDose
+hmset	info_vac:0562:264	nom_vac	Moderna	lot	5594/20	type	Covid-19	technique	IM	date_pro	06/2020	date_exp	06/2021	provider 	Moderna		TwoDose
+hmset	info_vac:0563:265	nom_vac	Moderna	lot	3308/21	type	Covid-19	technique	IM	date_pro	02/2021	date_exp	02/2022	provider 	Moderna		TwoDose
+hmset	info_vac:0564:266	nom_vac	BCG	lot	927/21	type	Tuberculosis	technique	VO	date_pro	04/2021	date_exp	04/2022	provider 	saidalGroup		TwoDose
+hmset	info_vac:0565:267	nom_vac	MMR	lot	135/20	type	"measles,mumps,rubella"	technique	SC	date_pro	02/2021	date_exp	02/2022	provider 	saidalGroup		TwoDose
+hmset	info_vac:0566:268	nom_vac	Pfizer-BioNTech	lot	245/20	type	Covid-19	technique	IM	date_pro	04/2020	date_exp	04/2021	provider 	BioNTech		TwoDose
+hmset	info_vac:0567:269	nom_vac	Sinopharm	lot	2901/21	type	Covid-19	technique	IM	date_pro	01/2021	date_exp	01/2022	provider 	SinopharmGroupCoLtd		TwoDose
+hmset	info_vac:0568:270	nom_vac	Johnson&Johnson	lot	2150/21	type	Covid-19	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	Johnson&Johnson		OneDose
+hmset	info_vac:0569:271	nom_vac	Johnson&Johnson	lot	6447/21	type	Covid-19	technique	IM	date_pro	06/2020	date_exp	06/2021	provider 	Johnson&Johnson		TwoDose
+hmset	info_vac:0570:272	nom_vac	Moderna	lot	2634/21	type	Covid-19	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	Moderna		TwoDose
+hmset	info_vac:0571:273	nom_vac	Moderna	lot	4715/20	type	Covid-19	technique	IM	date_pro	06/2021	date_exp	06/2022	provider 	Moderna		TwoDose
+hmset	info_vac:0572:274	nom_vac	Moderna	lot	4681/20	type	Covid-19	technique	IM	date_pro	01/2021	date_exp	01/2022	provider 	Moderna		OneDose
+hmset	info_vac:0573:275	nom_vac	Johnson&Johnson	lot	6612/20	type	Covid-19	technique	IM	date_pro	06/2021	date_exp	06/2022	provider 	Johnson&Johnson		OneDose
+hmset	info_vac:0574:276	nom_vac	Johnson&Johnson	lot	6519/20	type	Covid-19	technique	IM	date_pro	05/2021	date_exp	05/2022	provider 	Johnson&Johnson		TwoDose
+hmset	info_vac:0575:277	nom_vac	BCG	lot	1669/20	type	Tuberculosis	technique	VO	date_pro	03/2021	date_exp	03/2022	provider 	saidalGroup		OneDose
+hmset	info_vac:0576:278	nom_vac	Sinopharm	lot	1832/20	type	Covid-19	technique	IM	date_pro	02/2021	date_exp	02/2022	provider 	SinopharmGroupCoLtd		OneDose
+hmset	info_vac:0577:279	nom_vac	Novavax	lot	2678/20	type	Covid-19	technique	IM	date_pro	06/2020	date_exp	06/2021	provider 	Novavax		TwoDose
+hmset	info_vac:0578:280	nom_vac	SpoutnikV	lot	3397/21	type	Covid-19	technique	IM	date_pro	06/2020	date_exp	06/2021	provider 	Gamaleya_Research_Institute		OneDose
+hmset	info_vac:0579:281	nom_vac	BCG	lot	3427/21	type	Tuberculosis	technique	VO	date_pro	05/2021	date_exp	05/2022	provider 	saidalGroup		TwoDose
+hmset	info_vac:0580:282	nom_vac	Pfizer-BioNTech	lot	3353/20	type	Covid-19	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	BioNTech		OneDose
+hmset	info_vac:0581:283	nom_vac	MMR	lot	5915/21	type	"measles,mumps,rubella"	technique	SC	date_pro	06/2021	date_exp	06/2022	provider 	saidalGroup		OneDose
+hmset	info_vac:0582:284	nom_vac	Novavax	lot	5063/20	type	Covid-19	technique	IM	date_pro	05/2021	date_exp	05/2022	provider 	Novavax		OneDose
+hmset	info_vac:0583:285	nom_vac	BCG	lot	3487/20	type	Tuberculosis	technique	VO	date_pro	04/2020	date_exp	04/2021	provider 	saidalGroup		TwoDose
+hmset	info_vac:0584:286	nom_vac	BCG	lot	5248/20	type	Tuberculosis	technique	VO	date_pro	04/2020	date_exp	04/2021	provider 	saidalGroup		TwoDose
+hmset	info_vac:0585:287	nom_vac	SpoutnikV	lot	495/20	type	Covid-19	technique	IM	date_pro	03/2020	date_exp	03/2021	provider 	Gamaleya_Research_Institute		TwoDose
+hmset	info_vac:0586:288	nom_vac	MMR	lot	6262/21	type	"measles,mumps,rubella"	technique	SC	date_pro	02/2021	date_exp	02/2022	provider 	saidalGroup		TwoDose
+hmset	info_vac:0587:289	nom_vac	SpoutnikV	lot	754/21	type	Covid-19	technique	IM	date_pro	06/2020	date_exp	06/2021	provider 	Gamaleya_Research_Institute		OneDose
+hmset	info_vac:0588:290	nom_vac	Johnson&Johnson	lot	273/21	type	Covid-19	technique	IM	date_pro	05/2021	date_exp	05/2022	provider 	Johnson&Johnson		OneDose
+hmset	info_vac:0589:291	nom_vac	Novavax	lot	6793/20	type	Covid-19	technique	IM	date_pro	04/2020	date_exp	04/2021	provider 	Novavax		OneDose
+hmset	info_vac:0590:292	nom_vac	Moderna	lot	5163/20	type	Covid-19	technique	IM	date_pro	01/2020	date_exp	01/2021	provider 	Moderna		OneDose
+hmset	info_vac:0591:293	nom_vac	Pfizer-BioNTech	lot	3724/21	type	Covid-19	technique	IM	date_pro	05/2020	date_exp	05/2021	provider 	BioNTech		TwoDose
+hmset	info_vac:0592:294	nom_vac	Moderna	lot	6819/20	type	Covid-19	technique	IM	date_pro	02/2021	date_exp	02/2022	provider 	Moderna		TwoDose
+hmset	info_vac:0593:295	nom_vac	SpoutnikV	lot	6686/21	type	Covid-19	technique	IM	date_pro	04/2021	date_exp	04/2022	provider 	Gamaleya_Research_Institute		OneDose
+hmset	info_vac:0594:296	nom_vac	SpoutnikV	lot	1320/21	type	Covid-19	technique	IM	date_pro	04/2020	date_exp	04/2021	provider 	Gamaleya_Research_Institute		OneDose
+hmset	info_vac:0595:297	nom_vac	MMR	lot	3681/20	type	"measles,mumps,rubella"	technique	SC	date_pro	06/2020	date_exp	06/2021	provider 	saidalGroup		OneDose
+hmset	info_vac:0596:298	nom_vac	MMR	lot	1526/20	type	"measles,mumps,rubella"	technique	SC	date_pro	05/2020	date_exp	05/2021	provider 	saidalGroup		TwoDose
+hmset	info_vac:0597:299	nom_vac	BCG	lot	3133/21	type	Tuberculosis	technique	ID	date_pro	01/2021	date_exp	01/2022	provider 	saidalGroup		TwoDose
+hmset	info_vac:0598:300	nom_vac	Sinopharm	lot	2204/20	type	Covid-19	technique	IM	date_pro	05/2021	date_exp	05/2022	provider 	SinopharmGroupCoLtd		TwoDose
+hmset	info_vac:0599:301	nom_vac	Moderna	lot	927/20	type	Covid-19	technique	IM	date_pro	03/2020	date_exp	03/2021	provider 	Moderna		OneDose
+hmset	info_vac:0600:302	nom_vac	BCG	lot	346/20	type	Tuberculosis	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	saidalGroup		OneDose
+hmset	info_vac:0601:303	nom_vac	MMR	lot	7729/21	type	"measles,mumps,rubella"	technique	SC	date_pro	05/2021	date_exp	05/2022	provider 	saidalGroup		OneDose
+hmset	info_vac:0602:304	nom_vac	BCG	lot	5445/20	type	Tuberculosis	technique	VO	date_pro	01/2020	date_exp	01/2021	provider 	saidalGroup		TwoDose
+hmset	info_vac:0603:305	nom_vac	SpoutnikV	lot	2539/20	type	Covid-19	technique	IM	date_pro	02/2020	date_exp	02/2021	provider 	Gamaleya_Research_Institute		OneDose
+hmset	info_vac:0604:306	nom_vac	Sinopharm	lot	152/20	type	Covid-19	technique	IM	date_pro	06/2020	date_exp	06/2021	provider 	SinopharmGroupCoLtd		OneDose
+hmset	info_vac:0605:307	nom_vac	Moderna	lot	5558/21	type	Covid-19	technique	IM	date_pro	04/2021	date_exp	04/2022	provider 	Moderna		OneDose
+hmset	info_vac:0606:308	nom_vac	MMR	lot	3176/20	type	"measles,mumps,rubella"	technique	SC	date_pro	03/2020	date_exp	03/2021	provider 	saidalGroup		OneDose
+hmset	info_vac:0607:309	nom_vac	MMR	lot	3820/21	type	"measles,mumps,rubella"	technique	SC	date_pro	06/2020	date_exp	06/2021	provider 	saidalGroup		TwoDose
+hmset	info_vac:0608:310	nom_vac	Pfizer-BioNTech	lot	7438/21	type	Covid-19	technique	IM	date_pro	06/2020	date_exp	06/2021	provider 	BioNTech		TwoDose
+hmset	info_vac:0609:311	nom_vac	Johnson&Johnson	lot	4814/20	type	Covid-19	technique	IM	date_pro	06/2021	date_exp	06/2022	provider 	Johnson&Johnson		TwoDose
+hmset	info_vac:0610:312	nom_vac	HBV	lot	6485/21	type	hepatitisB	technique	IM	date_pro	04/2020	date_exp	04/2021	provider 	saidalGroup		TwoDose
+hmset	info_vac:0611:313	nom_vac	Moderna	lot	4722/20	type	Covid-19	technique	IM	date_pro	04/2020	date_exp	04/2021	provider 	Moderna		TwoDose
+hmset	info_vac:0612:314	nom_vac	Sinopharm	lot	6408/21	type	Covid-19	technique	IM	date_pro	02/2020	date_exp	02/2021	provider 	SinopharmGroupCoLtd		OneDose
+hmset	info_vac:0613:315	nom_vac	BCG	lot	723/20	type	Tuberculosis	technique	ID	date_pro	03/2021	date_exp	03/2022	provider 	saidalGroup		OneDose
+hmset	info_vac:0614:316	nom_vac	Pfizer-BioNTech	lot	4639/20	type	Covid-19	technique	IM	date_pro	06/2020	date_exp	06/2021	provider 	BioNTech		TwoDose
+hmset	info_vac:0615:317	nom_vac	Johnson&Johnson	lot	7283/21	type	Covid-19	technique	IM	date_pro	05/2021	date_exp	05/2022	provider 	Johnson&Johnson		OneDose
+hmset	info_vac:0616:318	nom_vac	HBV	lot	1091/20	type	hepatitisB	technique	IM	date_pro	01/2020	date_exp	01/2021	provider 	saidalGroup		OneDose
+hmset	info_vac:0617:319	nom_vac	HBV	lot	5285/21	type	hepatitisB	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	saidalGroup		OneDose
+hmset	info_vac:0618:320	nom_vac	SpoutnikV	lot	5098/21	type	Covid-19	technique	IM	date_pro	06/2021	date_exp	06/2022	provider 	Gamaleya_Research_Institute		TwoDose
+hmset	info_vac:0619:321	nom_vac	Moderna	lot	2411/20	type	Covid-19	technique	IM	date_pro	03/2020	date_exp	03/2021	provider 	Moderna		OneDose
+hmset	info_vac:0620:322	nom_vac	HBV	lot	4844/21	type	hepatitisB	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	saidalGroup		OneDose
+hmset	info_vac:0621:323	nom_vac	HBV	lot	3376/21	type	hepatitisB	technique	IM	date_pro	01/2021	date_exp	01/2022	provider 	saidalGroup		TwoDose
+hmset	info_vac:0622:324	nom_vac	HBV	lot	2837/21	type	hepatitisB	technique	IM	date_pro	04/2021	date_exp	04/2022	provider 	saidalGroup		TwoDose
+hmset	info_vac:0623:325	nom_vac	SpoutnikV	lot	7045/20	type	Covid-19	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	Gamaleya_Research_Institute		TwoDose
+hmset	info_vac:0624:326	nom_vac	Novavax	lot	805/20	type	Covid-19	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	Novavax		OneDose
+hmset	info_vac:0625:327	nom_vac	MMR	lot	2657/21	type	"measles,mumps,rubella"	technique	SC	date_pro	05/2021	date_exp	05/2022	provider 	saidalGroup		OneDose
+hmset	info_vac:0626:328	nom_vac	Sinopharm	lot	5091/21	type	Covid-19	technique	IM	date_pro	01/2020	date_exp	01/2021	provider 	SinopharmGroupCoLtd		TwoDose
+hmset	info_vac:0627:329	nom_vac	HBV	lot	4261/20	type	hepatitisB	technique	IM	date_pro	05/2020	date_exp	05/2021	provider 	saidalGroup		TwoDose
+hmset	info_vac:0628:330	nom_vac	Moderna	lot	2753/20	type	Covid-19	technique	IM	date_pro	05/2020	date_exp	05/2021	provider 	Moderna		OneDose
+hmset	info_vac:0629:331	nom_vac	Pfizer-BioNTech	lot	1555/21	type	Covid-19	technique	IM	date_pro	06/2021	date_exp	06/2022	provider 	BioNTech		OneDose
+hmset	info_vac:0630:332	nom_vac	Sinopharm	lot	778/21	type	Covid-19	technique	IM	date_pro	02/2021	date_exp	02/2022	provider 	SinopharmGroupCoLtd		OneDose
+hmset	info_vac:0631:333	nom_vac	BCG	lot	4747/20	type	Tuberculosis	technique	ID	date_pro	04/2020	date_exp	04/2021	provider 	saidalGroup		TwoDose
+hmset	info_vac:0632:334	nom_vac	Moderna	lot	1531/21	type	Covid-19	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	Moderna		OneDose
+hmset	info_vac:0633:335	nom_vac	BCG	lot	467/20	type	Tuberculosis	technique	VO	date_pro	02/2020	date_exp	02/2021	provider 	saidalGroup		TwoDose
+hmset	info_vac:0634:336	nom_vac	Pfizer-BioNTech	lot	7781/20	type	Covid-19	technique	IM	date_pro	06/2021	date_exp	06/2022	provider 	BioNTech		TwoDose
+hmset	info_vac:0635:337	nom_vac	Pfizer-BioNTech	lot	2202/21	type	Covid-19	technique	IM	date_pro	04/2020	date_exp	04/2021	provider 	BioNTech		OneDose
+hmset	info_vac:0636:338	nom_vac	Novavax	lot	5588/21	type	Covid-19	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	Novavax		TwoDose
+hmset	info_vac:0637:339	nom_vac	MMR	lot	410/20	type	"measles,mumps,rubella"	technique	SC	date_pro	04/2020	date_exp	04/2021	provider 	saidalGroup		OneDose
+hmset	info_vac:0638:340	nom_vac	SpoutnikV	lot	3560/21	type	Covid-19	technique	IM	date_pro	06/2020	date_exp	06/2021	provider 	Gamaleya_Research_Institute		OneDose
+hmset	info_vac:0639:341	nom_vac	Sinopharm	lot	7924/21	type	Covid-19	technique	IM	date_pro	06/2020	date_exp	06/2021	provider 	SinopharmGroupCoLtd		TwoDose
+hmset	info_vac:0640:342	nom_vac	Pfizer-BioNTech	lot	2851/20	type	Covid-19	technique	IM	date_pro	06/2020	date_exp	06/2021	provider 	BioNTech		TwoDose
+hmset	info_vac:0641:343	nom_vac	Pfizer-BioNTech	lot	3926/20	type	Covid-19	technique	IM	date_pro	06/2020	date_exp	06/2021	provider 	BioNTech		OneDose
+hmset	info_vac:0642:344	nom_vac	Johnson&Johnson	lot	1038/21	type	Covid-19	technique	IM	date_pro	01/2020	date_exp	01/2021	provider 	Johnson&Johnson		OneDose
+hmset	info_vac:0643:345	nom_vac	BCG	lot	2325/21	type	Tuberculosis	technique	IM	date_pro	05/2020	date_exp	05/2021	provider 	saidalGroup		TwoDose
+hmset	info_vac:0644:346	nom_vac	BCG	lot	4240/20	type	Tuberculosis	technique	ID	date_pro	01/2020	date_exp	01/2021	provider 	saidalGroup		TwoDose
+hmset	info_vac:0645:347	nom_vac	Moderna	lot	1731/20	type	Covid-19	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	Moderna		TwoDose
+hmset	info_vac:0646:348	nom_vac	Novavax	lot	2981/20	type	Covid-19	technique	IM	date_pro	05/2021	date_exp	05/2022	provider 	Novavax		OneDose
+hmset	info_vac:0647:349	nom_vac	MMR	lot	1133/20	type	"measles,mumps,rubella"	technique	SC	date_pro	03/2021	date_exp	03/2022	provider 	saidalGroup		TwoDose
+hmset	info_vac:0648:350	nom_vac	Novavax	lot	1161/21	type	Covid-19	technique	IM	date_pro	06/2021	date_exp	06/2022	provider 	Novavax		TwoDose
+hmset	info_vac:0649:351	nom_vac	Sinopharm	lot	5098/20	type	Covid-19	technique	IM	date_pro	01/2021	date_exp	01/2022	provider 	SinopharmGroupCoLtd		OneDose
+hmset	info_vac:0650:352	nom_vac	Johnson&Johnson	lot	6604/21	type	Covid-19	technique	IM	date_pro	03/2020	date_exp	03/2021	provider 	Johnson&Johnson		TwoDose
+hmset	info_vac:0651:353	nom_vac	Sinopharm	lot	6842/21	type	Covid-19	technique	IM	date_pro	05/2021	date_exp	05/2022	provider 	SinopharmGroupCoLtd		TwoDose
+hmset	info_vac:0652:354	nom_vac	Novavax	lot	3647/21	type	Covid-19	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	Novavax		OneDose
+hmset	info_vac:0653:355	nom_vac	Pfizer-BioNTech	lot	453/21	type	Covid-19	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	BioNTech		OneDose
+hmset	info_vac:0654:356	nom_vac	Sinopharm	lot	2153/21	type	Covid-19	technique	IM	date_pro	05/2021	date_exp	05/2022	provider 	SinopharmGroupCoLtd		TwoDose
+hmset	info_vac:0655:357	nom_vac	HBV	lot	485/20	type	hepatitisB	technique	IM	date_pro	06/2020	date_exp	06/2021	provider 	saidalGroup		OneDose
+hmset	info_vac:0656:358	nom_vac	Sinopharm	lot	2422/21	type	Covid-19	technique	IM	date_pro	01/2021	date_exp	01/2022	provider 	SinopharmGroupCoLtd		OneDose
+hmset	info_vac:0657:359	nom_vac	MMR	lot	7737/21	type	"measles,mumps,rubella"	technique	SC	date_pro	05/2020	date_exp	05/2021	provider 	saidalGroup		TwoDose
+hmset	info_vac:0658:360	nom_vac	Moderna	lot	3853/20	type	Covid-19	technique	IM	date_pro	06/2020	date_exp	06/2021	provider 	Moderna		OneDose
+hmset	info_vac:0659:361	nom_vac	Johnson&Johnson	lot	4683/20	type	Covid-19	technique	IM	date_pro	06/2020	date_exp	06/2021	provider 	Johnson&Johnson		TwoDose
+hmset	info_vac:0660:362	nom_vac	Novavax	lot	302/20	type	Covid-19	technique	IM	date_pro	02/2020	date_exp	02/2021	provider 	Novavax		TwoDose
+hmset	info_vac:0661:363	nom_vac	BCG	lot	2045/20	type	Tuberculosis	technique	VO	date_pro	01/2021	date_exp	01/2022	provider 	saidalGroup		OneDose
+hmset	info_vac:0662:364	nom_vac	Sinopharm	lot	3752/20	type	Covid-19	technique	IM	date_pro	03/2020	date_exp	03/2021	provider 	SinopharmGroupCoLtd		TwoDose
+hmset	info_vac:0663:365	nom_vac	MMR	lot	508/20	type	"measles,mumps,rubella"	technique	SC	date_pro	02/2020	date_exp	02/2021	provider 	saidalGroup		TwoDose
+hmset	info_vac:0664:366	nom_vac	MMR	lot	7943/21	type	"measles,mumps,rubella"	technique	SC	date_pro	03/2020	date_exp	03/2021	provider 	saidalGroup		OneDose
+hmset	info_vac:0665:367	nom_vac	Novavax	lot	6357/20	type	Covid-19	technique	IM	date_pro	05/2020	date_exp	05/2021	provider 	Novavax		TwoDose
+hmset	info_vac:0666:368	nom_vac	MMR	lot	4989/20	type	"measles,mumps,rubella"	technique	SC	date_pro	05/2020	date_exp	05/2021	provider 	saidalGroup		OneDose
+hmset	info_vac:0667:369	nom_vac	SpoutnikV	lot	854/21	type	Covid-19	technique	IM	date_pro	02/2021	date_exp	02/2022	provider 	Gamaleya_Research_Institute		TwoDose
+hmset	info_vac:0668:370	nom_vac	Johnson&Johnson	lot	3896/21	type	Covid-19	technique	IM	date_pro	03/2020	date_exp	03/2021	provider 	Johnson&Johnson		OneDose
+hmset	info_vac:0669:371	nom_vac	Novavax	lot	6965/21	type	Covid-19	technique	IM	date_pro	05/2020	date_exp	05/2021	provider 	Novavax		TwoDose
+hmset	info_vac:0670:372	nom_vac	Novavax	lot	1437/21	type	Covid-19	technique	IM	date_pro	01/2021	date_exp	01/2022	provider 	Novavax		TwoDose
+hmset	info_vac:0671:373	nom_vac	SpoutnikV	lot	4775/21	type	Covid-19	technique	IM	date_pro	05/2020	date_exp	05/2021	provider 	Gamaleya_Research_Institute		OneDose
+hmset	info_vac:0672:374	nom_vac	Novavax	lot	3084/21	type	Covid-19	technique	IM	date_pro	05/2020	date_exp	05/2021	provider 	Novavax		TwoDose
+hmset	info_vac:0673:375	nom_vac	SpoutnikV	lot	2538/20	type	Covid-19	technique	IM	date_pro	01/2021	date_exp	01/2022	provider 	Gamaleya_Research_Institute		TwoDose
+hmset	info_vac:0674:376	nom_vac	BCG	lot	226/21	type	Tuberculosis	technique	ID	date_pro	01/2021	date_exp	01/2022	provider 	saidalGroup		OneDose
+hmset	info_vac:0675:377	nom_vac	BCG	lot	1336/21	type	Tuberculosis	technique	IM	date_pro	03/2020	date_exp	03/2021	provider 	saidalGroup		OneDose
+hmset	info_vac:0676:378	nom_vac	HBV	lot	5469/20	type	hepatitisB	technique	IM	date_pro	05/2020	date_exp	05/2021	provider 	saidalGroup		TwoDose
+hmset	info_vac:0677:379	nom_vac	Moderna	lot	4460/21	type	Covid-19	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	Moderna		TwoDose
+hmset	info_vac:0678:380	nom_vac	BCG	lot	1847/21	type	Tuberculosis	technique	VO	date_pro	03/2021	date_exp	03/2022	provider 	saidalGroup		OneDose
+hmset	info_vac:0679:381	nom_vac	Johnson&Johnson	lot	901/21	type	Covid-19	technique	IM	date_pro	06/2021	date_exp	06/2022	provider 	Johnson&Johnson		OneDose
+hmset	info_vac:0680:382	nom_vac	Pfizer-BioNTech	lot	5464/21	type	Covid-19	technique	IM	date_pro	02/2020	date_exp	02/2021	provider 	BioNTech		TwoDose
+hmset	info_vac:0681:383	nom_vac	Johnson&Johnson	lot	269/21	type	Covid-19	technique	IM	date_pro	05/2021	date_exp	05/2022	provider 	Johnson&Johnson		TwoDose
+hmset	info_vac:0682:384	nom_vac	MMR	lot	1592/21	type	"measles,mumps,rubella"	technique	SC	date_pro	02/2020	date_exp	02/2021	provider 	saidalGroup		OneDose
+hmset	info_vac:0683:385	nom_vac	MMR	lot	6114/21	type	"measles,mumps,rubella"	technique	SC	date_pro	03/2020	date_exp	03/2021	provider 	saidalGroup		TwoDose
+hmset	info_vac:0684:386	nom_vac	Pfizer-BioNTech	lot	4898/20	type	Covid-19	technique	IM	date_pro	05/2021	date_exp	05/2022	provider 	BioNTech		TwoDose
+hmset	info_vac:0685:387	nom_vac	BCG	lot	5991/20	type	Tuberculosis	technique	ID	date_pro	04/2020	date_exp	04/2021	provider 	saidalGroup		OneDose
+hmset	info_vac:0686:388	nom_vac	Pfizer-BioNTech	lot	6814/20	type	Covid-19	technique	IM	date_pro	04/2020	date_exp	04/2021	provider 	BioNTech		OneDose
+hmset	info_vac:0687:389	nom_vac	MMR	lot	2542/21	type	"measles,mumps,rubella"	technique	SC	date_pro	06/2020	date_exp	06/2021	provider 	saidalGroup		OneDose
+hmset	info_vac:0688:390	nom_vac	Novavax	lot	3186/21	type	Covid-19	technique	IM	date_pro	02/2021	date_exp	02/2022	provider 	Novavax		OneDose
+hmset	info_vac:0689:391	nom_vac	HBV	lot	6415/20	type	hepatitisB	technique	IM	date_pro	04/2021	date_exp	04/2022	provider 	saidalGroup		TwoDose
+hmset	info_vac:0690:392	nom_vac	HBV	lot	872/20	type	hepatitisB	technique	IM	date_pro	03/2020	date_exp	03/2021	provider 	saidalGroup		TwoDose
+hmset	info_vac:0691:393	nom_vac	HBV	lot	4329/20	type	hepatitisB	technique	IM	date_pro	03/2020	date_exp	03/2021	provider 	saidalGroup		TwoDose
+hmset	info_vac:0692:394	nom_vac	SpoutnikV	lot	4934/20	type	Covid-19	technique	IM	date_pro	05/2020	date_exp	05/2021	provider 	Gamaleya_Research_Institute		TwoDose
+hmset	info_vac:0693:395	nom_vac	Johnson&Johnson	lot	2939/20	type	Covid-19	technique	IM	date_pro	03/2021	date_exp	03/2022	provider 	Johnson&Johnson		TwoDose
+hmset	info_vac:0694:396	nom_vac	HBV	lot	2453/20	type	hepatitisB	technique	IM	date_pro	06/2021	date_exp	06/2022	provider 	saidalGroup		TwoDose
+hmset	info_vac:0695:397	nom_vac	SpoutnikV	lot	7207/20	type	Covid-19	technique	IM	date_pro	01/2020	date_exp	01/2021	provider 	Gamaleya_Research_Institute		TwoDose
+hmset	info_vac:0696:398	nom_vac	Sinopharm	lot	1574/21	type	Covid-19	technique	IM	date_pro	02/2020	date_exp	02/2021	provider 	SinopharmGroupCoLtd		TwoDose
+hmset	info_vac:0697:399	nom_vac	Moderna	lot	1769/20	type	Covid-19	technique	IM	date_pro	06/2020	date_exp	06/2021	provider 	Moderna		TwoDose
+hmset	info_vac:0698:400	nom_vac	MMR	lot	4721/21	type	"measles,mumps,rubella"	technique	SC	date_pro	03/2020	date_exp	03/2021	provider 	saidalGroup		OneDose
+hmset	info_vac:0699:401	nom_vac	Novavax	lot	844/20	type	Covid-19	technique	IM	date_pro	06/2020	date_exp	06/2021	provider 	Novavax		OneDose
+hmset	info_vac:0700:402	nom_vac	Pfizer-BioNTech	lot	5650/20	type	Covid-19	technique	IM	date_pro	01/2020	date_exp	01/2021	provider 	BioNTech		OneDose
