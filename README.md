@@ -1,0 +1,2 @@
+# EPassport-DesktopApp-managing-biometric-passports-integrating-anticodiv19-vaccination
+This project try to improve the biometric passport such as can incorporate the vaccination record. we suggest the use of NoSQL databases that have been created to meet these requirements. We have developed a first version of an application called E-passport that works with NoSQL Redis-DBMS to manage the biometric passport database integrating the anti-Covid-19 vaccination record.
