@@ -1,0 +1,28 @@
+
+
+.container{width: 100%;}
+.msg{width: 80%;height: 100px;display: none;margin-left: 12%;margin-top: -5px;color:#fff;}
+.msg p{padding: 40px;font-weight: bold;font-size: 25px;}
+ #container4{border: 1.5px #04AA6D solid;display: inline-block; width: 90%;margin: 5% 2%;padding: 40px;border-radius: 10px;box-shadow: 4px 4px #04aa6d4b;}
+.col{display: flex;}
+.col1{width: 45%;}
+.col2{width: 50%;display: inline-flex;}
+.col2 div{ text-align: center;width: 50%;}
+label{font-weight: bold;font-size: 24px;display: inline-block;width: 190px;}
+input, select{border: 1.5px #868a88 solid; margin: 10px;width: 25%;height: 40px; font-size: 20px;}
+
+
+h2{position: absolute; padding: 0px 20px 0px 10px; font-size: 30px;margin-top: -60px;background: #fff;}
+
+.display-photo, .display-signature{
+    width: 300px; height: 300px;display: block;margin: 10px;
+}
+.photobtn{width: 200px; height: 40px; background: #fff;border: 1px solid #04AA6D; border-radius: 3px;}
+.submitbtn{background: #04AA6D;width: 200px;height: 50px;margin-left: 75%;color: #fff; border: none;font-size: 20px;}
+.search{border-bottom: 0.5px solid rgba(128, 128, 128, 0.589);width: 100%;margin-bottom: 20px;}
+
+#container4 .col1 label{width: 20%;} #container4 .col1 input{width: 25%;}
+#container4 .col{border: 1.5px #04AA6D solid;margin-top: 30px; display: inline-flex; width: 95%;padding: 40px;border-radius: 10px;box-shadow: 4px 4px #04aa6d4b;}
+#container4 .col2{width: 45%;}
+#container4 .col1{width: 55%;padding-top: 20px;}
+.vac label{width: 240px;}

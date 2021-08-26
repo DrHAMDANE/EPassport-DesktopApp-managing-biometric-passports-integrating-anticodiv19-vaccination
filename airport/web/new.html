@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>E-passport 1.0</title>
+    <script type="text/javascript" src="/eel.js"></script>
+    <script src="main.js"></script>
+    <link rel="stylesheet" href="main.css">
+    
+</head>
+<body>
+    <div class="container">
+        <div class="msg" id="msg"><p id="msgp"></p></div>
+
+        <div id="container4">
+   
+            <div class="search">
+                <form>
+                    <label>Personal Number:</label>
+                    <input type="text" id="id4" >
+                    <button type="button" class="submitbtn" onclick="recherchervac()" style="margin: 10px;">Search</button>
+                </form>
+            </div>
+            <div class="searchResult">
+                <div class="col">
+                    <h2>Civil State: </h2>
+                    <div class="col2">
+                        <div >
+                            <img id="display-photo" class="display-photo" />
+                        </div>
+                        <div>
+                            <img id="display-signature" class="display-photo" />
+                          </div>
+                    </div>
+                <div class="col1">
+                    <label>Firstname:</label>
+                        <input type="text" id="firstname4"  disabled>
+                    <label>Lastname:</label>
+                        <input type="text" id="lastname4"  disabled><br>
+                    <label>Date of Birth: </label>
+                        <input type="text" id="birthdate4"  disabled>
+                    <label>Place of Birth: </label>
+                        <input type="text" id="birthplace4"  disabled><br>
+                    <label>Gender:</label>
+                        <input type="text" id="gender4"  disabled >
+                    <label>Blood Group: </label>
+                        <input id="groupage4"  disabled><br>
+                    <label>Authority: </label>
+                        <input id="autorite4" disabled>
+                </div>
+        
+            
+                </div>
+            </div>
+            <div id="modfvac" class="col vac" style="display: none;">
+               
+            </div>
+    </div>
+
+</div>
+</body>
+</html>
